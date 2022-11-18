@@ -46,8 +46,6 @@
 
 ### Site Owner Goals
 
-2. As the site owner, I wanted the following:
-
  - To provide user an easy-to-use app to play music quiz from the [Logo]().
  - To provide the user with quizzes on different types of music(Jazz, Rock, Pop, Classic, EDM).
  - To provide the user with the ability to view the current score.
@@ -59,10 +57,15 @@
 ## User Experience
 
 ### Target Audience
-* P
+
+ - People looking to play Music quizzes.
+ - People looking to learn about different types of music.
 
 ### User Requirements and Expectations
-* A
+
+ - The ability to seamlessly navigate through the app.
+ - To use an app that provides a quiz on different types of music to the user.
+
 
 ### User Manual
 <details><summary>Instructions</summary>
@@ -75,21 +78,24 @@
 ### User Stories
 
 #### First-time  User
-1. I want:
-    - To be able to find relevent content
-    - Easy to understand the quiz rules and apply them sucessfully
-    - Enable to see their score
-    - All buttons and links works perfectly
-    - Able to easily understand text
-    - Easily navigate to all pages
+
+1. As a user, I want to be:
+    - Able to find interesting and meaningful quiz.
+    - Able to understand the quiz rules.
+    - Able to view my score and the result.
+    - Able to use all buttons and links perfectly.
+    - Able to easily understand the context.
+    - Able to easily navigate to all pages.
 
 #### Site Owner
-8.  I want:
-    - to provide a simple, fair and well instructed quiz
-    - can enable to see his score after each step
-    - should be easily navigate to all pages
-    - Learn something in regards to music
-    - to provide a clear text of question and options 
+2.  As the site owner, I would want:
+    - user to be greeted with a welcome message to give a friendly feel to the app.
+    - to provide a music relevent and well instructed quiz.
+    - The user to be able to see his score after each step.
+    - The user should be able to navigate through all the pages easily.
+    - The user learn something in regards to music.
+    - The user to get feedback based on their input.
+    - To provide a clear text of question and options. 
 
 ## Technical Design
 
