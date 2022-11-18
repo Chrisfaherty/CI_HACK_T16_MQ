@@ -86,12 +86,14 @@
 }
 
 
-#game-section {
+#game-section,
+#game-end {
   height: 100vh;
 }
 
 
-#game-section .logo {
+#game-section .logo,
+#game-end .logo {
   position: absolute;
   top: 25px;
   left: 35px;
@@ -342,3 +344,35 @@
     width: 0;
   }
   
+/*******************************
+*                              *
+*       GAME END PAGE          *
+*                              *
+*******************************/
+#game-end {
+  color: var(--white-color);
+}
+
+#game-end .box-score {
+  margin-bottom: 50px;
+}
+
+#game-end form {
+  width: 100%;
+}
+
+#game-end form input {
+  margin-bottom: 25px;
+  width: 350px;
+  padding: 25px;
+  font-size: 1.8rem;
+  border: none;
+  box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+#game-end form input::placeholder {
+  color: #aaa;
+}
+
