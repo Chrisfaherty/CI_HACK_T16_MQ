@@ -35,11 +35,25 @@
 ## Project Goals
 
 ### User Goals
-* S
+
+ - Be able to easily interact with the app to play the quiz.
+ - Be able to choose different type of music(Jazz, Rock, Pop, Classical, EDM) quiz.
+ - Navigate the app seamlessly.
+ - Receive clear instructions on the rules to play the quiz.
+ - Receive the clear result on their current input options.
+ - Receive the total score and result of their play.
 
 
 ### Site Owner Goals
-* C
+
+2. As the site owner, I wanted the following:
+
+ - To provide user an easy-to-use app to play music quiz from the [Logo]().
+ - To provide the user with quizzes on different types of music(Jazz, Rock, Pop, Classic, EDM).
+ - To provide the user with the ability to view the current score.
+ - To provide the user the ability to view the total score and result of his play.
+ - To provide the user to view the total number of questions within a quiz.
+ - To provide the ability to view the current status of question within a quiz.
 
 
 ## User Experience
