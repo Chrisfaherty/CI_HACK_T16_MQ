@@ -18,6 +18,13 @@
     2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Manual](#user-manual)
     4. [User Stories](#user-stories)
+    - To be able to find relevent content
+    - Easy to understand the quiz rules and apply them sucessfully
+    - Enable to see their score
+    - All buttons and links works perfectly
+    - Able to easily understand text
+    - Easily navigate to all pages
+    - Learnsomething in regards to music
 3. [Technical Design](#technical-design)
     1. [Flowchart](#flowchart)
 4. [Technologies Used](#technologies-used)
