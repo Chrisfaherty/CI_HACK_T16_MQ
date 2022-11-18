@@ -68,6 +68,18 @@
   color: var(--interactive-color) !important;
 }
 
+.gold-color {
+  color: rgb(255, 215, 0);
+ }
+ 
+ .silver-color {
+   color: rgb(191, 191, 191);
+ }
+ 
+ .bronze-color {
+   color: rgb(180, 117, 35);
+ }
+
 .container {
   width: 100%;
   height: 92vh;
