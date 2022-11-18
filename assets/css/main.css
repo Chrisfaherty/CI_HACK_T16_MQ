@@ -38,6 +38,24 @@
   url(https://www.emc-imc.org/fileadmin/_processed_/e/5/csm_thomas-kelley-78865-unsplash_d8f03abfad.jpg);
 }
 
+.bg-jazz {
+  background-image: linear-gradient(
+    280deg,
+    rgba(0, 0, 0, 0.5),
+    var(--black-color)
+  ),
+  url(https://www.riddlevillage.com/wp-content/uploads/The-band-in-regards-to-benefits-of-listening-to-jazz-music.jpg);
+}
+
+.bg-pop {
+  background-image: linear-gradient(
+    280deg,
+    rgba(0, 0, 0, 0.5),
+    var(--black-color)
+  ),
+  url(https://wallpaperaccess.com/full/2742175.jpg);
+}
+
 .logo {
   text-transform: uppercase;
   cursor: pointer;
