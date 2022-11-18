@@ -18,13 +18,6 @@
     2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Manual](#user-manual)
     4. [User Stories](#user-stories)
-    - To be able to find relevent content
-    - Easy to understand the quiz rules and apply them sucessfully
-    - Enable to see their score
-    - All buttons and links works perfectly
-    - Able to easily understand text
-    - Easily navigate to all pages
-    - Learnsomething in regards to music
 3. [Technical Design](#technical-design)
     1. [Flowchart](#flowchart)
 4. [Technologies Used](#technologies-used)
@@ -68,10 +61,21 @@
 ### User Stories
 
 #### First-time  User
-1. I want to 
+1. I want the following:
+    - To be able to find relevent content
+    - Easy to understand the quiz rules and apply them sucessfully
+    - Enable to see their score
+    - All buttons and links works perfectly
+    - Able to easily understand text
+    - Easily navigate to all pages
 
 #### Site Owner
-8. I want users to 
+8.  I want users:
+    - to provide a simple, fair and well instructed quiz
+    - can enable to see his score after each step
+    - should be easily navigate to all pages
+    - Learn something in regards to music
+    - to provide a clear text of question and options 
 
 ## Technical Design
 
@@ -90,6 +94,7 @@ The following flowchart sumerises the structure of the Game.
 ## Technologies Used
 
 ### Languages
+- HTML, CSS and JavaScript were used to creat this website.
 * [JavaScript]() The language used for the .
 
 ### Framework and Tools
