@@ -353,7 +353,17 @@ The following flowchart sumerises the structure of the Game.
     - This will fork the repositry.
 
 ## Credits
-* T
+
+* Quiz Questions: 
+    * [https://www.factmonster.com/take-quiz/jazz](https://www.factmonster.com/take-quiz/jazz)
+    * [https://www.ultimatequizquestions.com/jazz-quiz/](https://www.ultimatequizquestions.com/jazz-quiz/)
+    * [https://www.quiztriviagames.com/pop-music-quiz/](https://www.quiztriviagames.com/pop-music-quiz/)
+    * [https://www.usefultrivia.com/music_trivia/classical_music_trivia.html](https://www.usefultrivia.com/music_trivia/classical_music_trivia.html)
+    * [http://www.freepubquiz.co.uk/orchestra-quiz.html](http://www.freepubquiz.co.uk/orchestra-quiz.html)
+    * [https://play.howstuffworks.com/quiz/electronic-dance-music-quiz](https://play.howstuffworks.com/quiz/electronic-dance-music-quiz)
+    * [https://www.laweekly.com/are-you-a-real-edm-fan-take-this-quiz/](https://www.laweekly.com/are-you-a-real-edm-fan-take-this-quiz/)
+- Sound Effects: https://boombox.mtmograph.com/
+
 
 
 ## Acknowledgements
