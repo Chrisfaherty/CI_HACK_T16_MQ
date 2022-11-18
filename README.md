@@ -7,6 +7,7 @@
 
 ## About
 
+The [logo] website has been developed to provide users the chance to play the music quizzes and learn about different types of music. This website contains quizzes based on Jazz music, Rock music, Pop music, Classic music and EDM(Electronic dance music). 
 
 ## Table of Contents
 
@@ -89,8 +90,8 @@
 
 #### Site Owner
 2.  As the site owner, I would want:
-    - user to be greeted with a welcome message to give a friendly feel to the app.
-    - to provide a music relevent and well instructed quiz.
+    - User to be greeted with a welcome message to give a friendly feel to the app.
+    - To provide a music relevent and well instructed quiz.
     - The user to be able to see his score after each step.
     - The user should be able to navigate through all the pages easily.
     - The user learn something in regards to music.
@@ -121,8 +122,7 @@ The following flowchart sumerises the structure of the Game.
 * [Git](https://git-scm.com/) Used for version control to push the code to GitHub.
 * [GitHub](https://github.com/) Used as a repository to store the projects code.
 * [lucidchart](https://www.lucidchart.com/) Used to create the project flow.
-* [Dev Tools]() - To troubleshoot and test features, solve issues with responsiveness and styling.
-* [Am I Responsive?]() To show the website image on arange of devices.
+* [Am I Responsive?](https://ui.dev/amiresponsive) To show the website image on arange of devices.
 
 
 ## Features
