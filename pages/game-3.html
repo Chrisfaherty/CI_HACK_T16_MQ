@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Music Quiz">
+    <meta name="keywords" content="Games, Quiz, Music">
+    <!-- WEBSITE TITLE -->
+    <title>Music Quiz</title>
+    <!-- FAVICON -->
+    <link rel="icon" href="">
+    <!-- FONT-AWESOME -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+
+<body>
+    <!-- PLAY GAME SECTION -->
+    <section id="game-section" class="main-bg bg-pop">
+        <div class="header">
+            <h3 class="logo">Music<span class="interactive-color"> Quiz</span></h3>
+            <h4 id="category" data-category="geography">Pop</h4>
+        </div>
+        <div class="container flex-center">
+            <div id="game" class="justify-center flex-column">
+                <div id="scoreboard">
+                    <div>
+                        <div id="progress-text" class="scoreboard-text">
+                            Question
+                        </div>
+                        <div class="progress-bar">
+                            <div id="progress-bar-full"></div>
+                        </div>
+                    </div>
+                    <div class="box-score text-center ">
+                        <p class="scoreboard-text">
+                            Score
+                        </p>
+                        <p class="scoreboard-text" id="score">
+                            0
+                        </p>
+                    </div>
+                </div>
+                <div class="container-questions">
+                    <h2 id="question" class="text-center">Question</h2>
+                    <div class="choice-container">
+                        <p class="choice">A</p>
+                        <p class="choice-text text-center" data-choice="1"></p>
+                    </div>
+                    <div class="choice-container">
+                        <p class="choice">B</p>
+                        <p class="choice-text text-center" data-choice="2"></p>
+                    </div>
+                    <div class="choice-container">
+                        <p class="choice">C</p>
+                        <p class="choice-text text-center" data-choice="3"></p>
+                    </div>
+                    <div class="choice-container">
+                        <p class="choice">D</p>
+                        <p class="choice-text text-center" data-choice="4"></p>
+                    </div>
+                    <div>
+                        <a href="../index.html" class="btn" aria-label="Go to the home page"><i
+                                class="fas fa-arrow-left"></i>Go Home</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END OF PLAY GAME SECTION -->
+</body>
+</html>
