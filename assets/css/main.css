@@ -87,14 +87,16 @@
 
 #game-section,
 #game-end,
-#scores-page {
+#scores-page,
+#trophy-page {
   height: 100vh;
 }
 
 
 #game-section .logo,
 #game-end .logo,
-#scores-page .logo {
+#scores-page .logo,
+#trophy-page .logo {
   position: absolute;
   top: 25px;
   left: 35px;
@@ -398,4 +400,24 @@
   color: var(--white-color);
   margin-bottom: 15px;
   font-size: 2rem;
+}
+
+/*******************************
+*                              *
+*        TROPHY PAGE           *
+*                              *
+*******************************/
+#trophy-page {
+  color: var(--white-color);
+}
+
+#trophy-page .fa-medal{
+  font-size :clamp(2.5rem, 5vw, 1.8rem);
+  margin: 25px 0;
+}
+
+#trophy-page .container .title {
+  margin: 25px 0;
+  font-size: clamp(1.8rem, 5vw, 1rem);
+  line-height: 55px;
 }
