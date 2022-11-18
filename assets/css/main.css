@@ -85,6 +85,19 @@
   text-align: center;
 }
 
+
+#game-section {
+  height: 100vh;
+}
+
+
+#game-section .logo {
+  position: absolute;
+  top: 25px;
+  left: 35px;
+}
+
+
 .btn {
   margin-top: 20px;
   display: inline-block;
@@ -118,6 +131,17 @@
   transition: transform 150ms;
   color: var(--interactive-color);
 }
+
+.box-score {
+    background: var(--green-light-color);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    border: 2px solid var(--white-color);
+    border-radius: 15px;
+    padding: 15px 20px;
+    margin-top: 50px;
+    color: var(--white-color);
+    text-transform: uppercase;
+  }
 
 .title {
   font-size: clamp(1.3rem, 5vw, 1.8rem);
@@ -224,3 +248,97 @@
 #menu .btn {
   width: 225px;
 }
+
+/*******************************
+*                              *
+*          GAME PAGE           *
+*                              *
+*******************************/
+#game-section {
+    color: var(--white-color);
+  }
+  
+  #game-section .header h4 {
+    position: absolute;
+    top: 35px;
+    right: 35px;
+    font-size: clamp(1rem, 5vw, 2rem);
+  }
+  
+  #game-section .choice-container {
+    display: flex;
+    width: 80%;
+    margin: 0 auto 0.8rem;
+    font-size: 1.4rem;
+    background-color: var(--white-color);
+  }
+  
+  #game-section .choice-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+  }
+  
+  #game-section .choice {
+    padding: 25px;
+    background: linear-gradient(
+      140deg,
+      var(--green-light-color),
+      var(--purple-light-color)
+    );
+    color: white;
+    margin: 0;
+  }
+  
+  #game-section .choice-text {
+    padding: 25px;
+    text-transform: uppercase;
+    font-weight: 700;
+    width: 100%;
+    color: var(--purple-light-color);
+  }
+  
+  #game-section .container-questions h2 {
+    margin:0 0  58px;
+    height: 70px;
+    font-size: clamp(1.1rem, 5vw, 2rem);
+    color: var(--white-color);
+  }
+  
+  #game-section #scoreboard {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #game-section #scoreboard .scoreboard-text {
+    font-size: clamp(1.2rem, 5vw, 1.8rem);
+  }
+  
+  #game-section #progress-text {
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+  }
+  
+  #game-section #scoreboard .progress-bar {
+    width: 350px;
+    height: 30px;
+    border: 2px solid var(--green-color);
+    margin: 35px 0;
+    border-radius: 50px;
+    overflow: hidden;
+  }
+  
+  #game-section #scoreboard .box-score {
+    position: absolute;
+    bottom: 25px;
+    right: 25px;
+  }
+  
+  #game-section #progress-bar-full {
+    height: 100%;
+    background-color: var(--green-color);
+    width: 0;
+  }
+  
