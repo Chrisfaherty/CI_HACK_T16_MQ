@@ -61,7 +61,7 @@
 ### User Stories
 
 #### First-time  User
-1. I want the following:
+1. I want:
     - To be able to find relevent content
     - Easy to understand the quiz rules and apply them sucessfully
     - Enable to see their score
@@ -70,7 +70,7 @@
     - Easily navigate to all pages
 
 #### Site Owner
-8.  I want users:
+8.  I want:
     - to provide a simple, fair and well instructed quiz
     - can enable to see his score after each step
     - should be easily navigate to all pages
@@ -101,6 +101,8 @@ The following flowchart sumerises the structure of the Game.
 * [Git](https://git-scm.com/) Used for version control to push the code to GitHub.
 * [GitHub](https://github.com/) Used as a repository to store the projects code.
 * [lucidchart](https://www.lucidchart.com/) Used to create the project flow.
+* [Dev Tools]() - To troubleshoot and test features, solve issues with responsiveness and styling.
+* [Am I Responsive?]() To show the website image on arange of devices.
 
 
 ## Features
