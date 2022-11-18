@@ -334,12 +334,23 @@ The following flowchart sumerises the structure of the Game.
 
 ## Deployment
 
-### Deploying to Heroku
+### Deploying to Github Pages
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+    - In the GitHub repository, navigate to the Settings tab
+    - From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
+    - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+  The live link can be found here-
 
 ### Forking the GitHub Repository
-* Go to the GitHub repository,
-* In the top right hand corner you can click on the fork button,
-* This will fork the repositry.
+
+* The steps to fork the github repository
+
+    - Go to the GitHub repository,
+    - In the top right hand corner you can click on the fork button,
+    - This will fork the repositry.
 
 ## Credits
 * T
