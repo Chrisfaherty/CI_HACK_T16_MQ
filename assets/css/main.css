@@ -85,15 +85,16 @@
   text-align: center;
 }
 
-
 #game-section,
-#game-end {
+#game-end,
+#scores-page {
   height: 100vh;
 }
 
 
 #game-section .logo,
-#game-end .logo {
+#game-end .logo,
+#scores-page .logo {
   position: absolute;
   top: 25px;
   left: 35px;
@@ -375,3 +376,26 @@
   color: #aaa;
 }
 
+/*******************************
+*                              *
+*        SCORES PAGE           *
+*                              *
+*******************************/
+#scores-page {
+  color: var(--white-color);
+}
+
+#scores-page .highscores-box {
+  background: var(--blue-transparent-color);
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  margin: 35px;
+  padding: 35px 100px;
+  border: 2px solid var(--white-color);
+  border-radius: 15px;
+}
+
+#scores-page ol li {
+  color: var(--white-color);
+  margin-bottom: 15px;
+  font-size: 2rem;
+}
