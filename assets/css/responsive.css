@@ -259,6 +259,28 @@
     }
   }
 
+  @media screen and (max-height: 425px) {
+    /*******************************
+    *                              *
+    *          HOME PAGE           *
+    *                              *
+    *******************************/
+    #menu .logo-menu .logo {
+      margin-top: 10px;
+    }
+  }  
+  
+  @media screen and (max-height: 425px) {
+    /*******************************
+    *                              *
+    *          HOME PAGE           *
+    *                              *
+    *******************************/
+    #menu .logo-menu .logo {
+      margin-top: 10px;
+    }
+  }
+
     
  
           
