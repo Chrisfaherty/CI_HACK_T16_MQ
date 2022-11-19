@@ -13,9 +13,10 @@
     --purple-light-color: rgb(74, 10, 224);
     --interactive-color: rgb(255, 83, 61);
     --white-color: rgb(255, 255, 255);
-    --green-color: rgb(11, 233, 36);
+    --green-color: rgb(0, 255, 202);
     --black-color: rgb(15, 22, 38);
     --red-color: rgb(255, 83, 61);
+    --red-lt-color: rgb(239, 126, 110);
 }
 
 * {
@@ -180,13 +181,13 @@
 }
 
 .box-score {
-    background: var(--green-light-color);
+    background: var(--green-color);
     box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
     border: 2px solid var(--white-color);
     border-radius: 15px;
     padding: 15px 20px;
     margin-top: 50px;
-    color: var(--white-color);
+    color: var(--black-color);
     text-transform: uppercase;
 }
 
@@ -355,9 +356,9 @@ span.fade {
 #game-section .choice {
     padding: 25px;
     background: linear-gradient(140deg,
-            var(--green-light-color),
-            var(--purple-light-color));
-    color: white;
+            var(--red-color),
+            var(--red-lt-color));
+    color: var(--white-color);
     margin: 0;
 }
 
@@ -366,7 +367,7 @@ span.fade {
     text-transform: uppercase;
     font-weight: 700;
     width: 100%;
-    color: var(--purple-light-color);
+    color: var(--black-color);
 }
 
 #game-section .container-questions h2 {
