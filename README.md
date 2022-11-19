@@ -1,4 +1,4 @@
-# Music Quiz
+# The Music Quiz
 (Developers: )
 
 ![This is an screenshot of the responsive design image]()
@@ -7,7 +7,7 @@
 
 ## About
 
-The [logo]() website has been developed to provide users the chance to play the music quizzes and learn about different types of music. This website contains quizzes based on Jazz, Rock, Pop, Classic and EDM (Electronic dance music). 
+The Music Quiz website has been developed to provide users the chance to play the music quizzes and learn about different types of music. This website contains quizzes based on Jazz, Rock, Pop, Classic and EDM (Electronic dance music). 
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@ The [logo]() website has been developed to provide users the chance to play the 
 
 ### Site Owner Goals
 
- - To provide user an easy-to-use app to play music quiz from the [Logo]().
+ - To provide user an easy-to-use app to play music quiz from The Music Quiz.
  - To provide the user with quizzes on different types of music (Jazz, Rock, Pop, Classic, EDM).
  - To provide the user with the ability to view the current score.
  - To provide the user the ability to view the total score and result of the quiz.
@@ -102,7 +102,8 @@ The Quiz End page provides the following features:
 #### High Score page
 
 The High Score page provides the following features:
-- Shows the top [XX](TO BE CHANGED) high scores along with user names.
+- Shows the top six high scores along with user names.
+- If user answers more than certain number of questions correctly, user is navigated automatically to Trophy page. 
 - Nav button to navigate to home page.
 
 </details>
@@ -149,7 +150,6 @@ The following flowchart sumerises the structure of the Game.
 
 ### Languages
 - HTML, CSS and JavaScript were used to creat this website.
-* [JavaScript]() The language used for the .
 
 ### Framework and Tools
 * [Git](https://git-scm.com/) Used for version control to push the code to GitHub.
