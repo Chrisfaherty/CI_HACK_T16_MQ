@@ -114,6 +114,11 @@
     margin-left: 0px;
     }
 
+    .logomark {
+      width: 90px;
+      height: auto;
+    }
+
     /*******************************
     *                              *
     *          QUIZ PAGE           *
@@ -156,6 +161,11 @@
 
     #menu {
     width: 100%;
+    }
+
+    .logomark {
+      width: 70px;
+      height: auto;
     }
 
     /*******************************

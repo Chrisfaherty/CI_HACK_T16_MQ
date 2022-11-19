@@ -11,11 +11,11 @@
     --blue-media-color: rgb(56, 47, 139);
     --blue-transparent-color: rgba(25, 39, 160, 0.5);
     --purple-light-color: rgb(74, 10, 224);
-    --interactive-color: rgb(202, 45, 84);
+    --interactive-color: rgb(255, 83, 61);
     --white-color: rgb(255, 255, 255);
     --green-color: rgb(11, 233, 36);
-    --black-color: rgb(14, 7, 7);
-    --red-color: rgb(245, 9, 32);
+    --black-color: rgb(15, 22, 38);
+    --red-color: rgb(255, 83, 61);
 }
 
 * {
@@ -31,23 +31,51 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-image: linear-gradient(280deg,
-            rgba(0, 0, 0, 0.1),
+            rgba(0, 0, 0, 0.4),
             var(--black-color)),
-        url(https://www.emc-imc.org/fileadmin/_processed_/e/5/csm_thomas-kelley-78865-unsplash_d8f03abfad.jpg);
+        url(/assets/images/main-bg.jpg);
+    background-position: right;
+}
+
+.bg-rock {
+    background-image: linear-gradient(280deg,
+            rgba(0, 0, 0, 0.3),
+            var(--black-color)),
+        url(/assets/images/rock-bg.jpg);
 }
 
 .bg-jazz {
     background-image: linear-gradient(280deg,
-            rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.2),
             var(--black-color)),
-        url(https://www.riddlevillage.com/wp-content/uploads/The-band-in-regards-to-benefits-of-listening-to-jazz-music.jpg);
+        url(/assets/images/jazz-bg.jpg);
+    background-position: right bottom;
 }
 
 .bg-pop {
     background-image: linear-gradient(280deg,
             rgba(0, 0, 0, 0.5),
             var(--black-color)),
-        url(https://wallpaperaccess.com/full/2742175.jpg);
+        url(/assets/images/pop-bg.jpg);
+}
+
+.bg-classic {
+    background-image: linear-gradient(280deg,
+            rgba(0, 0, 0, 0.1),
+            var(--black-color)),
+        url(/assets/images/classical-bg.jpg);
+}
+
+.bg-edm {
+    background-image: linear-gradient(280deg,
+            rgba(0, 0, 0, 0.5),
+            var(--black-color)),
+        url(/assets/images/edm-bg.jpg);
+}
+
+.logomark {
+    width: 120px;
+    height: auto;
 }
 
 .logo {
@@ -56,6 +84,7 @@
     letter-spacing: 5px;
     font-size: clamp(1rem, 5vw, 2rem);
     color: var(--white-color);
+    display: none;
 }
 
 .interactive-color {
@@ -130,10 +159,7 @@
     display: inline-block;
     width: 200px;
     padding: 15px 25px;
-    border: 3px solid var(--interactive-color);
-    background: linear-gradient(90deg,
-            var(--green-light-color) 0%,
-            var(--blue-media-color) 100%);
+    background: var(--red-color);
     border-radius: 5px;
     color: var(--white-color);
     text-transform: uppercase;
@@ -146,13 +172,11 @@
 }
 
 .btn:hover {
-    background: linear-gradient(180deg,
-            var(--blue-media-color) 0%,
-            var(--green-light-color) 100%);
+    background: var(--white-color);
     box-shadow: 0 0.4rem 1.4rem 0 rgba(0, 114, 244, 0.6);
     transform: scale(1.03);
     transition: transform 150ms;
-    color: var(--interactive-color);
+    color: var(--red-color);
 }
 
 .box-score {
