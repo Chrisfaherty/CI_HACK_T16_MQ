@@ -407,7 +407,7 @@ const QUESTIONS_ARRAY = {
                 question: 'Which pop music legend performed with Avicii at the Ultra Music Festival 2012',
                 choice1: 'Beyonce',
                 choice2: 'Britney Spears',
-                choice3: 'Michael Jackon Hologram',
+                choice3: 'Michael Jackson Hologram',
                 choice4: 'Madonna',
                 correctAnswer: 4,
               },
