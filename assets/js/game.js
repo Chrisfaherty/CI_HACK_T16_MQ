@@ -101,6 +101,7 @@ choices.forEach(choice => {
                 question.innerHTML = rightAnswerReplyRondom;
              }
                 question.classList.add('correct-text');
+                sfx.right.play()
   
       } else {
   
@@ -114,6 +115,7 @@ choices.forEach(choice => {
              }
   
              question.classList.add('incorrect-text');
+             sfx.wrong.play()
      }  
   
      // Set the time out that user will see the reply message back after answered a question
