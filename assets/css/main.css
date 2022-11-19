@@ -184,6 +184,30 @@
   letter-spacing: 2px;
 }
 
+span {
+  transition: all 0.4s ease;
+}
+
+span.fade {
+  color: var(--interactive-color);
+}
+
+.correct-text{
+  color: var(--green-color)!important;
+}
+
+.incorrect-text{
+ color: var(--red-color)!important;
+}
+
+.correct {
+ background-color: var(--green-color)!important;
+}
+
+.incorrect {
+ background-color: var(--red-color)!important;
+}
+
 /*******************************
 *                              *
 *           HOME PAGE          *
