@@ -3,17 +3,17 @@
 var sfx = {
     right: new Howl({
        src: [
-          '../assets/sfx/answers/correct.mp3',
+          '../assets/sfx/game/correct.mp3',
        ]
     }),
     wrong: new Howl({
        src: [
-          '../assets/sfx/answers/wronganswer.mp3',
+          '../assets/sfx/game/wronganswer.mp3',
        ],
     }),
     btnSFX: new Howl({
         src: [
-           '../assets/sfx/answers/btn-hover.mp3',
+           '../assets/sfx/game/btn-hover.mp3',
         ]
     })
   }
