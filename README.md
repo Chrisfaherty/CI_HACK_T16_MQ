@@ -71,15 +71,15 @@ The [logo]() website has been developed to provide users the chance to play the 
 ### User Manual
 <details><summary>Instructions</summary>
 
-## Overview
+#### Overview
 
 The Music Quiz app is for users who wish to enhance the knowledge about different type of music (Jazz, Rock, Pop, Classic, EDM) by playing interactive quizzes. Each page provides the logo at the top left corner and nav button to navigate to home page.
 
-## Home page
+#### Home page
 
 The landing page of the website welcomes the user. It provides the toggle icon at the top right corner to navigate the user to different pages of the website. The "Let's Know" nav button directly navigates the user to the quiz page by randomly selecting one of the music type. Alternatively, user can select particular type of quiz through toggle button.
 
-## Quiz page
+#### Quiz page
 
 The Quiz page provides user the following features:
 - Question with four options.
@@ -92,14 +92,14 @@ The Quiz page provides user the following features:
 - Nav button to navigate to home page.
 - On completion of the quiz, user is automatically navigated to Quiz End page.
 
-## Quiz End page
+#### Quiz End page
 
 The Quiz End page provides the following features:
 - option to save the quiz score by entering user name. 
 - After saving the score along with user name, user is automatically navigated to high score page.
 - Nav button to navigate to home page.
 
-## High Score page
+#### High Score page
 
 The High Score page provides the following features:
 - Shows the top [XX](TO BE CHANGED) high scores along with user names.
