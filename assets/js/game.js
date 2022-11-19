@@ -73,7 +73,7 @@ choices.forEach(choice => {
       let rightAnswerReply = ['YOUR ANSWER IS RIGHT! WELL DONE!',
                               'RIGHT ANSWER!', 
                               'RIGHT ANSWER! YOU ARE DOING WELL!',
-                              'LOOKS LIKE YOU ABOUT MUSIC!'];
+                              'LOOKS LIKE YOU KNOW ABOUT MUSIC!'];
       const rightAnswerReplyIndex = Math.floor(Math.random() * rightAnswerReply.length);
       const rightAnswerReplyRondom = rightAnswerReply[rightAnswerReplyIndex];
   
