@@ -8,7 +8,9 @@
    
     let quizPageArray = ['pages/game-1.html', 
                          'pages/game-2.html', 
-                         'pages/game-3.html'];
+                         'pages/game-3.html',
+                         'pages/game-4.html',
+                         'pages/game-5.html'];
     const QUIZ_PAGE_ARRAY_INDEX = Math.floor(Math.random() * quizPageArray.length);
     quizPageArray = quizPageArray[QUIZ_PAGE_ARRAY_INDEX];
   
