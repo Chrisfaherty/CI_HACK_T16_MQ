@@ -7,162 +7,152 @@
 *                              *
 *******************************/
 :root {
-  --green-light-color: rgb(18, 255, 117);
-  --blue-media-color: rgb(56, 47, 139);
-  --blue-transparent-color: rgba(25, 39, 160, 0.5);
-  --purple-light-color: rgb(74, 10, 224);
-  --interactive-color: rgb(202, 45, 84);
-  --white-color: rgb(255, 255, 255);
-  --green-color: rgb(11, 233, 36);
-  --black-color: rgb(14, 7, 7);
-  --red-color: rgb(245, 9, 32);
+    --green-light-color: rgb(18, 255, 117);
+    --blue-media-color: rgb(56, 47, 139);
+    --blue-transparent-color: rgba(25, 39, 160, 0.5);
+    --purple-light-color: rgb(74, 10, 224);
+    --interactive-color: rgb(202, 45, 84);
+    --white-color: rgb(255, 255, 255);
+    --green-color: rgb(11, 233, 36);
+    --black-color: rgb(14, 7, 7);
+    --red-color: rgb(245, 9, 32);
 }
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
-  text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
 }
 
 .main-bg {
-  background-position: 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-image: linear-gradient(
-    280deg,
-    rgba(0, 0, 0, 0.1),
-    var(--black-color)
-  ),
-  url(https://www.emc-imc.org/fileadmin/_processed_/e/5/csm_thomas-kelley-78865-unsplash_d8f03abfad.jpg);
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(280deg,
+            rgba(0, 0, 0, 0.1),
+            var(--black-color)),
+        url(https://www.emc-imc.org/fileadmin/_processed_/e/5/csm_thomas-kelley-78865-unsplash_d8f03abfad.jpg);
 }
 
 .bg-jazz {
-  background-image: linear-gradient(
-    280deg,
-    rgba(0, 0, 0, 0.5),
-    var(--black-color)
-  ),
-  url(https://www.riddlevillage.com/wp-content/uploads/The-band-in-regards-to-benefits-of-listening-to-jazz-music.jpg);
+    background-image: linear-gradient(280deg,
+            rgba(0, 0, 0, 0.5),
+            var(--black-color)),
+        url(https://www.riddlevillage.com/wp-content/uploads/The-band-in-regards-to-benefits-of-listening-to-jazz-music.jpg);
 }
 
 .bg-pop {
-  background-image: linear-gradient(
-    280deg,
-    rgba(0, 0, 0, 0.5),
-    var(--black-color)
-  ),
-  url(https://wallpaperaccess.com/full/2742175.jpg);
+    background-image: linear-gradient(280deg,
+            rgba(0, 0, 0, 0.5),
+            var(--black-color)),
+        url(https://wallpaperaccess.com/full/2742175.jpg);
 }
 
 .logo {
-  text-transform: uppercase;
-  cursor: pointer;
-  letter-spacing: 5px;
-  font-size: clamp(1rem, 5vw, 2rem);
-  color: var(--white-color);
+    text-transform: uppercase;
+    cursor: pointer;
+    letter-spacing: 5px;
+    font-size: clamp(1rem, 5vw, 2rem);
+    color: var(--white-color);
 }
 
 .interactive-color {
-  color: var(--interactive-color) !important;
+    color: var(--interactive-color) !important;
 }
 
 .gold-color {
-  color: rgb(255, 215, 0);
- }
- 
- .silver-color {
-   color: rgb(191, 191, 191);
- }
- 
- .bronze-color {
-   color: rgb(180, 117, 35);
- }
-
-.container {
-  width: 100%;
-  height: 92vh;
-  display: flex;
-  max-width: 80rem;
-  margin: 0 auto;
-  padding: 2rem;
+    color: rgb(255, 215, 0);
 }
 
-.container > * {
-  width: 100%;
+.silver-color {
+    color: rgb(191, 191, 191);
+}
+
+.bronze-color {
+    color: rgb(180, 117, 35);
+}
+
+.container {
+    width: 100%;
+    height: 92vh;
+    display: flex;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.container>* {
+    width: 100%;
 }
 
 .flex {
-  display: flex;
+    display: flex;
 }
 
 .flex-column {
-  display: flex;
-  flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
 
 .flex-center {
-  justify-content: center;
-  align-items: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .justify-center {
-  justify-content: center;
+    justify-content: center;
 }
 
 .text-center {
-  text-align: center;
+    text-align: center;
 }
 
 #game-section,
 #game-end,
 #scores-page,
 #trophy-page {
-  height: 100vh;
+    height: 100vh;
 }
 
 #game-section .logo,
 #game-end .logo,
 #scores-page .logo,
 #trophy-page .logo {
-  position: absolute;
-  top: 25px;
-  left: 35px;
+    position: absolute;
+    top: 25px;
+    left: 35px;
 }
 
 .btn {
-  margin-top: 20px;
-  display: inline-block;
-  width: 200px;
-  padding: 15px 25px;
-  border: 3px solid var(--interactive-color);
-  background: linear-gradient(
-    90deg,
-    var(--green-light-color) 0%,
-    var(--blue-media-color) 100%
-  );
-  border-radius: 5px;
-  color: var(--white-color);
-  text-transform: uppercase;
-  text-align: center;
-  font-size: clamp(0.5rem, 5vw, 0.9rem);
-  letter-spacing: 2px;
-  font-weight: 700;
-  transition: 0.5s;
-  cursor: pointer;
+    margin-top: 20px;
+    display: inline-block;
+    width: 200px;
+    padding: 15px 25px;
+    border: 3px solid var(--interactive-color);
+    background: linear-gradient(90deg,
+            var(--green-light-color) 0%,
+            var(--blue-media-color) 100%);
+    border-radius: 5px;
+    color: var(--white-color);
+    text-transform: uppercase;
+    text-align: center;
+    font-size: clamp(0.5rem, 5vw, 0.9rem);
+    letter-spacing: 2px;
+    font-weight: 700;
+    transition: 0.5s;
+    cursor: pointer;
 }
 
 .btn:hover {
-  background: linear-gradient(
-    180deg,
-    var(--blue-media-color) 0%,
-    var(--green-light-color) 100%
-  );
-  box-shadow: 0 0.4rem 1.4rem 0 rgba(0, 114, 244, 0.6);
-  transform: scale(1.03);
-  transition: transform 150ms;
-  color: var(--interactive-color);
+    background: linear-gradient(180deg,
+            var(--blue-media-color) 0%,
+            var(--green-light-color) 100%);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(0, 114, 244, 0.6);
+    transform: scale(1.03);
+    transition: transform 150ms;
+    color: var(--interactive-color);
 }
 
 .box-score {
@@ -174,38 +164,38 @@
     margin-top: 50px;
     color: var(--white-color);
     text-transform: uppercase;
-  }
+}
 
 .title {
-  font-size: clamp(1.3rem, 5vw, 1.8rem);
-  padding: 15px;
-  color: var(--white-color);
-  text-transform: uppercase;
-  letter-spacing: 2px;
+    font-size: clamp(1.3rem, 5vw, 1.8rem);
+    padding: 15px;
+    color: var(--white-color);
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 span {
-  transition: all 0.4s ease;
+    transition: all 0.4s ease;
 }
 
 span.fade {
-  color: var(--interactive-color);
+    color: var(--interactive-color);
 }
 
-.correct-text{
-  color: var(--green-color)!important;
+.correct-text {
+    color: var(--green-color) !important;
 }
 
-.incorrect-text{
- color: var(--red-color)!important;
+.incorrect-text {
+    color: var(--red-color) !important;
 }
 
 .correct {
- background-color: var(--green-color)!important;
+    background-color: var(--green-color) !important;
 }
 
 .incorrect {
- background-color: var(--red-color)!important;
+    background-color: var(--red-color) !important;
 }
 
 /*******************************
@@ -213,97 +203,98 @@ span.fade {
 *           HOME PAGE          *
 *                              *
 *******************************/
-#hero-section{
-  background-position: 80%;
-  position: absolute;
-  right: 0;
-  width: 100%;
-  height: 100vh;
-  padding: 100px;
-  justify-content: space-between;
-  align-items: center;
-  color: var(--white-color);
-  z-index: 2;
-  transition: all 0.8s;
+#hero-section {
+    background-position: 80%;
+    position: absolute;
+    right: 0;
+    width: 100%;
+    height: 100vh;
+    padding: 100px;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--white-color);
+    z-index: 2;
+    transition: all 0.8s;
 }
 
 #hero-section .header {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  padding: 40px 100px;
-  z-index: 1000;
-  justify-content: space-between;
-  align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 40px 100px;
+    z-index: 1000;
+    justify-content: space-between;
+    align-items: center;
 }
 
- .fa {
-  position: absolute;
-  top: 50px;
-  right: 80px;
-  font-size: 30px;
-  cursor: pointer;
+.fa {
+    position: absolute;
+    top: 50px;
+    right: 80px;
+    font-size: 30px;
+    cursor: pointer;
 }
 
 .fa-times {
-  transition: 0.8s !important;
-  display: block;
+    transition: 0.8s !important;
+    display: block;
 }
 
 #hero-section .text {
-  position: relative;
-  z-index: 10;
-  transition: 1.1s;
+    position: relative;
+    z-index: 10;
+    transition: 1.1s;
 }
 
 #hero-section .text h3 {
-  font-size: clamp(1.4rem, 5vw, 3.5rem);
-  font-weight: 700;
-  padding: 25px 0;
-  line-height: 2.5rem;
-  text-transform: uppercase;
+    font-size: clamp(1.5rem, 5vw, 3.2rem);
+    font-weight: 500;
+    padding: 25px 10px;
+    line-height: 2.5rem;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px red;
 }
 
 #hero-section .text p {
-  font-size: 1.1rem;
-  font-weight: 400;
-  margin: 20px 0;
-  max-width: 700px;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin: 20px 0;
+    max-width: 700px;
 }
 
 #hero-section.active {
-  right: 300px;
+    right: 300px;
 }
 
 #menu {
-  position: fixed;
-  top: 0;
-  right: -50%;
-  width: 50%;
-  height: 100%;
-  display: flex;
-  transition: all 0.8s;
-  z-index: 2;
-  background-color: var(--black-color);
+    position: fixed;
+    top: 0;
+    right: -50%;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    transition: all 0.8s;
+    z-index: 2;
+    background-color: var(--black-color);
 }
 
 #menu.active {
-  right: 0;
+    right: 0;
 }
 
 #menu ul {
-  list-style: none;
-  position: relative;
+    list-style: none;
+    position: relative;
 }
 
 #menu .logo-menu .logo {
-  margin-top: 60px;
-  font-size: 1.2rem;
+    margin-top: 60px;
+    font-size: 1.2rem;
 }
 
 #menu .btn {
-  width: 225px;
+    width: 225px;
 }
 
 /*******************************
@@ -313,122 +304,120 @@ span.fade {
 *******************************/
 #game-section {
     color: var(--white-color);
-  }
-  
-  #game-section .header h4 {
+}
+
+#game-section .header h4 {
     position: absolute;
     top: 35px;
     right: 35px;
     font-size: clamp(1rem, 5vw, 2rem);
-  }
-  
-  #game-section .choice-container {
+}
+
+#game-section .choice-container {
     display: flex;
     width: 80%;
     margin: 0 auto 0.8rem;
     font-size: 1.4rem;
     background-color: var(--white-color);
-  }
-  
-  #game-section .choice-container:hover {
+}
+
+#game-section .choice-container:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
-  }
-  
-  #game-section .choice {
+}
+
+#game-section .choice {
     padding: 25px;
-    background: linear-gradient(
-      140deg,
-      var(--green-light-color),
-      var(--purple-light-color)
-    );
+    background: linear-gradient(140deg,
+            var(--green-light-color),
+            var(--purple-light-color));
     color: white;
     margin: 0;
-  }
-  
-  #game-section .choice-text {
+}
+
+#game-section .choice-text {
     padding: 25px;
     text-transform: uppercase;
     font-weight: 700;
     width: 100%;
     color: var(--purple-light-color);
-  }
-  
-  #game-section .container-questions h2 {
-    margin:0 0  58px;
+}
+
+#game-section .container-questions h2 {
+    margin: 0 0 58px;
     height: 70px;
     font-size: clamp(1.1rem, 5vw, 2rem);
     color: var(--white-color);
-  }
-  
-  #game-section #scoreboard {
+}
+
+#game-section #scoreboard {
     display: flex;
     justify-content: space-between;
-  }
-  
-  #game-section #scoreboard .scoreboard-text {
+}
+
+#game-section #scoreboard .scoreboard-text {
     font-size: clamp(1.2rem, 5vw, 1.8rem);
-  }
-  
-  #game-section #progress-text {
+}
+
+#game-section #progress-text {
     position: absolute;
     bottom: 25px;
     left: 25px;
-  }
-  
-  #game-section #scoreboard .progress-bar {
+}
+
+#game-section #scoreboard .progress-bar {
     width: 350px;
     height: 30px;
     border: 2px solid var(--green-color);
     margin: 35px 0;
     border-radius: 50px;
     overflow: hidden;
-  }
-  
-  #game-section #scoreboard .box-score {
+}
+
+#game-section #scoreboard .box-score {
     position: absolute;
     bottom: 25px;
     right: 25px;
-  }
-  
-  #game-section #progress-bar-full {
+}
+
+#game-section #progress-bar-full {
     height: 100%;
     background-color: var(--green-color);
     width: 0;
-  }
-  
+}
+
 /*******************************
 *                              *
 *       GAME END PAGE          *
 *                              *
 *******************************/
 #game-end {
-  color: var(--white-color);
+    color: var(--white-color);
 }
 
 #game-end .box-score {
-  margin-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 #game-end form {
-  width: 100%;
+    width: 100%;
 }
 
 #game-end form input {
-  margin-bottom: 25px;
-  width: 350px;
-  padding: 25px;
-  font-size: 1.8rem;
-  border: none;
-  box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
-  border-radius: 15px;
-  cursor: pointer;
+    margin-bottom: 25px;
+    width: 350px;
+    padding: 25px;
+    font-size: 1.8rem;
+    border: none;
+    box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    border-radius: 15px;
+    cursor: pointer;
 }
 
 #game-end form input::placeholder {
-  color: #aaa;
+    color: #aaa;
 }
 
 /*******************************
@@ -437,22 +426,22 @@ span.fade {
 *                              *
 *******************************/
 #scores-page {
-  color: var(--white-color);
+    color: var(--white-color);
 }
 
 #scores-page .highscores-box {
-  background: var(--blue-transparent-color);
-  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
-  margin: 35px;
-  padding: 35px 100px;
-  border: 2px solid var(--white-color);
-  border-radius: 15px;
+    background: var(--blue-transparent-color);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    margin: 35px;
+    padding: 35px 100px;
+    border: 2px solid var(--white-color);
+    border-radius: 15px;
 }
 
 #scores-page ol li {
-  color: var(--white-color);
-  margin-bottom: 15px;
-  font-size: 2rem;
+    color: var(--white-color);
+    margin-bottom: 15px;
+    font-size: 2rem;
 }
 
 /*******************************
@@ -461,16 +450,16 @@ span.fade {
 *                              *
 *******************************/
 #trophy-page {
-  color: var(--white-color);
+    color: var(--white-color);
 }
 
-#trophy-page .fa-medal{
-  font-size :clamp(2.5rem, 5vw, 1.8rem);
-  margin: 25px 0;
+#trophy-page .fa-medal {
+    font-size: clamp(2.5rem, 5vw, 1.8rem);
+    margin: 25px 0;
 }
 
 #trophy-page .container .title {
-  margin: 25px 0;
-  font-size: clamp(1.8rem, 5vw, 1rem);
-  line-height: 55px;
+    margin: 25px 0;
+    font-size: clamp(1.8rem, 5vw, 1rem);
+    line-height: 55px;
 }
