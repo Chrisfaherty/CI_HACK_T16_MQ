@@ -3,7 +3,7 @@
 
 ![This is an screenshot of the responsive design image]()
 
-[Live Webpage](h)
+[Live Webpage](https://8000-chrisfahert-cihackt16mq-ww9joothxyz.ws-eu74.gitpod.io/)
 
 ## About
 
@@ -364,7 +364,7 @@ The following flowchart sumerises the structure of the Game.
     - From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
     - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-  The live link can be found here-
+  The live link can be found here- https://8000-chrisfahert-cihackt16mq-ww9joothxyz.ws-eu74.gitpod.io/
 
 ### Forking the GitHub Repository
 
