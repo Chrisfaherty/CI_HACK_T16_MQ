@@ -132,7 +132,7 @@ The High Score page provides the following features:
 
 ### User Stories
 
-#### First-time  User
+#### First-time User
 
 1. As a user, I want to:
     - have an interactive, meaningful and contextual quiz.
@@ -142,13 +142,11 @@ The High Score page provides the following features:
 
 #### Site Owner
 2.  As the site owner, I would want:
-    - User to be greeted with a welcome message to give a friendly feel to the app.
-    - To provide a music relevent and well instructed quiz.
-    - The user to be able to see his score after each step.
-    - The user should be able to navigate through all the pages easily.
-    - The user learn something in regards to music.
-    - The user to get feedback based on their input.
-    - To provide a clear text of question and options. 
+    - to provide a music relevent and well instructed quiz.
+    - the user to be able to see his score after each step.
+    - the user should be able to navigate through all the pages easily.
+    - the user learn something in regards to music.
+    - the user to get feedback based on their input.
 
 [Back to Table Of Contents](#table-of-contents)
 
@@ -188,11 +186,15 @@ On the home page, the logo in the upper left corner shows the name of the websit
 
 ![Home page image](./assets/images/readme/music_quiz_homepage_page.jpg)
 
+---
+
 #### Quiz page
 
 The Quiz page displays the Quiz area with the first question of the quiz with four options. The result is displayed in green color with sound effects if the user clicks on the right answer and if wrong, the result is displayed in red with different sound effects. The progress of the quiz is displayed by a progress bar below the logo. At the bottom left corner, the user can see the current question count from the total number of questions and at the bottom right, the current score is displayed. User can navigate to home page by clicking on 'GO HOME' button even if he/she is in the middle of a quiz.
 
 ![Quiz page image](./assets/images/readme/music_quiz_game_page.jpg)
+
+---
 
 #### Quiz End page
 
@@ -200,11 +202,14 @@ The Quiz End page shows the total score of the user and gives the user an option
 
 ![Quiz End page image](./assets/images/readme/music_quiz_end_page.png)
 
+----
 #### Trophy page
 
 The Trophy page greets the user with a message detailing the user's score and icons of the Silver, Bronze, and Gold guitars that the user won. The 'Continue' button navigates the user to the High Score page.
 
 ![Trophy page image](./assets/images/readme/music_quiz_trophy_page.png)
+
+----
 
 #### High Score page
 
@@ -242,7 +247,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
     </details>
 
 
-### Testing user stories
+### Testing User Stories
 
 1. As a user, I want to have an interactive, meaningful and contextual quiz.
 
