@@ -3,7 +3,11 @@
 
 ![This is an screenshot of the responsive design image](./assets/images/readme/music_quiz_responsiveness.png)
 
+----
+
 [Live Webpage](https://8000-chrisfahert-cihackt16mq-ww9joothxyz.ws-eu74.gitpod.io/)
+
+----
 
 ## About
 
@@ -82,54 +86,6 @@ The Music Quiz website has been developed to provide users the chance to play th
  - The ability to seamlessly navigate through the app.
  - To use an app that provides a quiz on different types of music to the user.
 
-
-### User Manual
-<details><summary>Instructions</summary>
-
-#### Overview
-
-The Music Quiz app is for users who wish to enhance the knowledge about different type of music (Jazz, Rock, Pop, Classic, EDM) by playing interactive quizzes. Each page provides the logo at the top left corner and nav button to navigate to home page.
-
-#### Home page
-
-The landing page of the website welcomes the user. It provides the toggle icon at the top right corner to navigate the user to different pages of the website. The "Let's Know" nav button directly navigates the user to the quiz page by randomly selecting one of the music type. Alternatively, user can select particular type of quiz through toggle button.
-
-#### Quiz page
-
-The Quiz page provides user the following features:
-- Question with four options.
-    - User selection is highlighted with green for right answer and red for wrong answer.
-    - User is also provided with textual feedback on the selection.
-- Progress bar for progress of the quiz.
-- Selected music type for the quiz.
-- Current question number from total number of questions.
-- Current status of the score.  
-- Nav button to navigate to home page.
-- On completion of the quiz, user is automatically navigated to Quiz End page.
-
-#### Quiz End page
-
-The Quiz End page provides the following features:
-- Option to save the quiz score by entering user name. 
-- After saving the score along with user name, user is automatically navigated to either the trophy page or the high score page depending on user's score.
-- Nav button to navigate to home page.
-
-#### Trophy page
-
-The Trophy page provides either one of the following greeting messages:
-- User's detailed result with a Gold guitar icon, if the user gave all answers right.
-- User's detailed result with a Silver guitar icon, if the user gave nine answers right.
-- User's detailed result with a Bronze guitar icon, if the user gave eight answers right.
-
-
-#### High Score page
-
-The High Score page provides the following features:
-- Shows up to the top six high scores along with user name and icon of Silver, Bronze, and Gold guitars if any won.
-- Nav button to navigate to home page.
-
-</details>
-
 ### User Stories
 
 #### First-time User
@@ -148,9 +104,76 @@ The High Score page provides the following features:
     - the user learn something in regards to music.
     - the user to get feedback based on their input.
 
+### User Manual
+
+<details><summary>Instructions</summary>
+
+#### Overview
+
+The Music Quiz app is for users who wish to enhance the knowledge about different type of music (Jazz, Rock, Pop, Classic, EDM) by playing interactive quizzes. Each page provides the logo at the top left corner and nav button to navigate to home page.
+
+---
+
+#### Home page
+
+The landing page of the website welcomes the user. It provides the toggle icon at the top right corner to navigate the user to different pages of the website. The "Let's Know" nav button directly navigates the user to the quiz page by randomly selecting one of the music type. Alternatively, user can select particular type of quiz through toggle button.
+
+---
+
+#### Quiz page
+
+The Quiz page provides user the following features:
+- Question with four options.
+    - User selection is highlighted with green for right answer and red for wrong answer.
+    - User is also provided with textual feedback on the selection.
+- Progress bar for progress of the quiz.
+- Selected music type for the quiz.
+- Current question number from total number of questions.
+- Current status of the score.  
+- Nav button to navigate to home page.
+- On completion of the quiz, user is automatically navigated to Quiz End page.
+
+---
+
+#### Quiz End page
+
+The Quiz End page provides the following features:
+- Option to save the quiz score by entering user name. 
+- After saving the score along with user name, user is automatically navigated to either the trophy page or the high score page depending on user's score.
+- Nav button to navigate to home page.
+
+---
+
+#### Trophy page
+
+The Trophy page provides either one of the following greeting messages:
+- User's detailed result with a Gold guitar icon, if the user gave all answers right.
+- User's detailed result with a Silver guitar icon, if the user gave nine answers right.
+- User's detailed result with a Bronze guitar icon, if the user gave eight answers right.
+
+---
+
+
+#### High Score page
+
+The High Score page provides the following features:
+- Shows up to the top six high scores along with user name and icon of Silver, Bronze, and Gold guitars if any won.
+- Nav button to navigate to home page.
+
+---
+</details>
+
 [Back to Table Of Contents](#table-of-contents)
 
 ## Technical Design
+
+### Wireframes
+
+Following are the wireframes of The Music Quiz App:
+
+<details><summary>Overview</summary>
+<img src="">
+</details>
 
 ### Flowchart
 
@@ -217,6 +240,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
 
 ![High score page image](./assets/images/readme/music_quiz_high_score_page.png)
 
+----
 
 [Back to Table Of Contents](#table-of-contents)
 
