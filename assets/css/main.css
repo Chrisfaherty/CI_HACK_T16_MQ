@@ -247,6 +247,11 @@ span.fade {
     display: block;
 }
 
+.fa-guitar {
+    font-size: 4rem !important;
+    margin-left: 10px;
+}
+
 #hero-section .text {
     position: relative;
     z-index: 10;
