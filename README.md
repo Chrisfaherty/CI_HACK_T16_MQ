@@ -256,7 +256,10 @@ On the high score page, the scoreboard displays the user's score up to the top s
 |All listed features in the Features section provide the user with interactive, meaningful and contextual feedback based on user input.|Required user input|User to be provided relevant feedback based on user input|Works as expected|
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="./assets/images/readme/music_quiz_game_page.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="./assets/images/readme/music_quiz_toggle.png">
 </details>
 
 2. As a user, I want to view my progress, current score, and response to my answer during the quiz.
@@ -266,7 +269,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
 |Progres status, user score, audio & visual response to user answer during the quiz|Select answer to the question|Progress status is shown in bar graph format and current question number out of total questions|Works as expected| 
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="./assets/images/readme/music_quiz_feedback.png">
 </details>
 
 3. As a user, I want to view the final score, an option to save the score with the user nane and list of top scores after completion of the quiz.
@@ -279,7 +282,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
 |Show trophy page for more than seven correct answers|After completing the quiz, input user name and click save button|Show Gold, Silver, and Bronze trophy if the user gives the right answers to 10, 9, 8 questions respectively|Works as expected|  
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="./assets/images/readme/music_quiz_end_page.png">
 </details>
 
 4. As a user, I want to navigate using nav buttons and links easily.
@@ -289,7 +292,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
 |All nav buttons and toggle bar nav links navigate the user to the intended page of the website|User click|As described in feature|Works as expected| 
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="./assets/images/readme/music_quiz_home_toggle.png">">
 </details>
 
 [Back to Table Of Contents](#table-of-contents)
