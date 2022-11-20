@@ -30,14 +30,15 @@
 <!-- HERO SECTION -->
 <main id="hero-section" class="hero-section main-bg flex">
     <div class="header flex">
-       <img src="./assets/images/music-quiz-logo.png" alt="The Music Quiz logo" class="logomark">
+        <img src="./assets/images/music-quiz-logo.png" alt="The Music Quiz logo" class="logomark">
         <div class="toggler">
             <i class="fa fa-bars interactive-color"></i>
         </div>
     </div>
     <div class="text">
         <h3 class="fancy-text">What do you know about music ?</h3>
-        <a class="btn start-game-btn" id="get-quiz-btn" aria-label="Go to a random quiz page to start a game">Let's Know</a>
+        <a class="btn start-game-btn" id="get-quiz-btn" aria-label="Go to a random quiz page to start a game">Let's
+            Know</a>
     </div>
 </main>
 <!-- END OF HERO SECTION -->
@@ -62,8 +63,9 @@
                 High Scores</a></li>
         <li class="logo-menu text-center">
         </li>
-        <a href="/index.html"><img src="./assets/images/music-quiz-logo.png" alt="The Music Quiz logo" class="logomark"></a>
-    <br>
+        <a href="/index.html"><img src="./assets/images/music-quiz-logo.png" alt="The Music Quiz logo"
+                class="logomark"></a>
+        <br>
     </ul>
 </nav>
 <!-- END OF MENU -->
@@ -72,6 +74,12 @@
 <script src="./assets/js/get-game.js"></script>
 <script src="./assets/js/script.js"></script>
 <script src="./assets/js/game-fsx.js"></script>
+<script>
+    // Add sound effect to the start game button
+    document.querySelector(".start-game-btn").addEventListener("mouseover", () => {
+        sfx.btnSFX.play();
+    })
+</script>
 </body>
 
 </html>
