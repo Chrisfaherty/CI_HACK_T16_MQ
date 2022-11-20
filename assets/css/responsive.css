@@ -1,329 +1,338 @@
-
-
-    /*******************************
+/*******************************
     *                              *
     *        MEDIA QUERIES         *
     *                              *
     *******************************/
 
 @media screen and (min-width: 1000px) and (max-width: 1400px) {
-    /*******************************
+  /*******************************
     *                              *
     *          QUIZ PAGE           *
     *                              *
     *******************************/
-    #game-section #scoreboard .progress-bar {
+  #game-section #scoreboard .progress-bar {
     height: 25px;
     margin: 50px 130px 35px;
-    }
+  }
 
-    #game-section .container-questions h2 {
+  #game-section .container-questions h2 {
     margin-bottom: 15px;
-    }
+  }
 
-    #game-section .choice-text,
-    #game-section .choice {
+  #game-section .choice-text,
+  #game-section .choice {
     padding: 15px;
-    }
+  }
 
-    #game-section #scoreboard .scoreboard-text {
+  #game-section #scoreboard .scoreboard-text {
     bottom: 10px;
     font-size: 1.5rem !important;
-    }
+  }
 
-    #game-section #scoreboard .box-score {
+  #game-section #scoreboard .box-score {
     bottom: 20px;
-    }
+  }
 
-    .logo-game {
-      top: 10px;
-      width: 100px;
-    }
+  .logo-game {
+    top: 10px;
+    width: 100px;
+  }
 
-    /*******************************
+  /*******************************
     *                              *
     *        SCORES PAGE           *
     *                              *
     *******************************/
-    #scores-page .highscores-box {
-    margin:15px 0;
-    }
+  #scores-page .highscores-box {
+    margin: 15px 0;
+  }
 
-    #scores-page ol li {
+  #scores-page ol li {
     margin-bottom: 5px;
     font-size: 1.7rem;
-    }
+  }
 }
 @media screen and (max-width: 999px) {
-    /*******************************
+  /*******************************
     *                              *
     *          QUIZ PAGE           *
     *                              *
     *******************************/
-  .logo-game{
+  .logo-game {
     top: 5px;
     width: 85px;
   }
 
   #game-section #scoreboard .progress-bar {
     margin: 45px 0 10px;
-}
+  }
 }
 
 @media screen and (max-width: 920px) {
-    /*******************************
+  /*******************************
     *                              *
     *           HOME PAGE          *
     *                              *
     *******************************/
-    .fa  {
-      right:25px;
-    }
+  .fa {
+    right: 25px;
+  }
 
-    /*******************************
+  /*******************************
     *                              *
     *       GAME END PAGE          *
     *                              *
     *******************************/
-    #game-end .box-score {
+  #game-end .box-score {
     padding: 10px 40px;
-    }
-    #game-end form {
+  }
+  #game-end form {
     width: 100%;
-    }
+  }
 
-    #game-end form input {
+  #game-end form input {
     width: 200px;
     padding: 15px;
     font-size: 1rem;
     margin: -35px 0 5px;
-    }
+  }
 
-    #game-end .btn {
+  #game-end .btn {
     font-size: 0.8rem;
     margin: 10px;
-    }
+  }
 
-    /*******************************
+  /*******************************
     *                              *
     *        SCORES PAGE           *
     *                              *
     *******************************/
-    #scores-page .highscores-box {
+  #scores-page .highscores-box {
     margin: 5px;
     padding: 15px 50px;
-    }
+  }
 
-
-    #scores-page ol li {
+  #scores-page ol li {
     margin-bottom: 5px;
     font-size: 1.3rem;
-    }
+  }
 }
 
 @media screen and (max-width: 798px) {
-    /*******************************
+  /*******************************
     *                              *
     *           HOME PAGE          *
     *                              *
     *******************************/
-    #hero-section .header {
+  #hero-section .header {
     padding: 40px;
-    }
+  }
 
-    #hero-section .text h2 {
+  #hero-section .text h2 {
     font-size: 3rem;
-    }
+  }
 
-    #hero-section .text h3 {
+  #hero-section .text h3 {
     font-size: 2rem;
-    }
+  }
 
-    .text.active {
+  .text.active {
     margin-left: 0px;
-    }
+  }
 
-    .logomark {
-      width: 90px;
-      height: auto;
-    }
+  .logomark {
+    width: 90px;
+    height: auto;
+  }
 
-    #menu {
-      width: 70%;
-    }
+  #menu {
+    width: 70%;
+  }
 
-    /*******************************
+  /*******************************
     *                              *
     *          QUIZ PAGE           *
     *                              *
     *******************************/
-    #game-section .header h4 {
+  #game-section .header h4 {
     top: 23px;
-    }
+  }
 
-    #game-section .choice-text,
-    #game-section .choice {
+  #game-section .choice-text,
+  #game-section .choice {
     padding: 10px;
-    }
+  }
 
-    /*******************************
+  /*******************************
     *                              *
     *        TROPHY PAGE           *
     *                              *
     *******************************/
-    #trophy-page .container .title {
+  #trophy-page .container .title {
     margin: 25px 0;
     font-size: 1.3rem;
-    }
+  }
 }
 
 @media screen and (max-width: 500px) {
-    /*******************************
+  /*******************************
     *                              *
     *          HOME PAGE           *
     *                              *
     *******************************/
 
-    #hero-section.active {
+  #hero-section.active {
     right: 500px;
-    }
+  }
 
-    #hero-section .fa-times.active {
+  #hero-section .fa-times.active {
     left: 500px;
-    }
+  }
 
-    #menu {
+  #menu {
     width: 100%;
-    }
+  }
 
-    .logomark {
-      width: 70px;
-      height: auto;
-    }
+  .logomark {
+    width: 70px;
+    height: auto;
+  }
 
-    .fa  {
-      right:25px;
-    }
+  .fa {
+    right: 25px;
+  }
 
-    /*******************************
+  /*******************************
     *                              *
     *          QUIZ PAGE           *
     *                              *
     *******************************/
-    #game-section .choice-text {
-    font-size: 1.2rem!important;
-    }
+  #game-section .choice-text {
+    font-size: 1.2rem !important;
+  }
 
-    /*******************************
+  /*******************************
     *                              *
     *        SCORES PAGE           *
     *                              *
     *******************************/
-    #scores-page ol li {
+  #scores-page ol li {
     margin-bottom: 5px;
     font-size: 1rem;
-    }
+  }
 
-    #scores-page  .highscores-box {
+  #scores-page .highscores-box {
     padding: 25px 40px;
-    }
+  }
 
-    #game-section .container-questions h2 {
+  #game-section .container-questions h2 {
     margin: 0 0 35px;
-    }
+  }
 
-    /*******************************
+  /*******************************
     *                              *
     *        TROPHY PAGE           *
     *                              *
     *******************************/
-    #trophy-page .container .title {
+  #trophy-page .container .title {
     font-size: 1.2rem;
-    }
+  }
 }
 @media screen and (max-width: 400px) {
-    /*******************************
+  /*******************************
     *                              *
     *          QUIZ PAGE           *
     *                              *
     *******************************/
-    #game-section .header h4 {
-      top: 23px;
-    }
-  
-    #game-section .container-questions .btn {
-      padding: 10px 5px;
-      width: 150px;
-    }
-  
-    #game-section #scoreboard .progress-bar {
-      width: 300px;
-      height: 25px;
-    }
-
+  #game-section .header h4 {
+    top: 23px;
   }
 
-  @media screen and (max-width: 340px) {
-    /*******************************
+  #game-section .container-questions .btn {
+    padding: 10px 5px;
+    width: 150px;
+  }
+
+  #game-section #scoreboard .progress-bar {
+    width: 300px;
+    height: 25px;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  /*******************************
     *                              *
     *          QUIZ PAGE           *
     *                              *
     *******************************/
-    #game-section .choice-container {
-      height: 50px;
-    }
-  
-    #game-section .choice-text {
-      padding: 14px;
-    }
-  
-    #game-section .choice {
-      padding: 12px;
-    }
-  
-    #game-section #scoreboard .progress-bar {
-      width: 250px !important;
-      height: 15px !important;
-      margin: 70px 0 -5px;
-    }
-
-    #game-section .container-questions h2 {
-      margin: 25px 0 15px!important;
-    }
-  
-    #game-section #scoreboard .scoreboard-text {
-      font-size: 0.8rem !important;
-      bottom: 10px;
-    }
-    
-    #game-section #scoreboard .box-score {
-      bottom: 10px;
-    }
-
-    #game-section .btn {
-      margin-top: 5px;
-      font-size: 0.8rem;
-    }
+  #game-section .choice-container {
+    height: 50px;
   }
 
-  @media screen and (max-height: 425px) {
-    /*******************************
+  #game-section .choice-text {
+    padding: 14px;
+  }
+
+  #game-section .choice {
+    padding: 12px;
+  }
+
+  #game-section #scoreboard .progress-bar {
+    width: 250px !important;
+    height: 15px !important;
+    margin: 70px 0 -5px;
+  }
+
+  #game-section .container-questions h2 {
+    margin: 25px 0 15px !important;
+  }
+
+  #game-section #scoreboard .scoreboard-text {
+    font-size: 0.8rem !important;
+    bottom: 10px;
+  }
+
+  #game-section #scoreboard .box-score {
+    bottom: 10px;
+  }
+
+  #game-section .btn {
+    margin-top: 5px;
+    font-size: 0.8rem;
+  }
+
+  #game-section #audio-control {
+    bottom: 100px !important
+}
+}
+
+@media screen and (max-height: 610px) and (max-width: 440px) {
+  /*******************************
+    *                              *
+    *         QUIZ PAGE           *
+    *                              *
+    *******************************/
+
+  #game-section #audio-control {
+    bottom: 120px;
+  }
+
+  #game-section #scoreboard .progress-bar {
+    height: 17px;
+  }
+
+  #game-section .container-questions h2 {
+    height: 35px;
+  }
+
+  #game-section .choice-text {
+    font-size: 0.8rem!important;
+}
+}
+@media screen and (max-height: 425px) {
+  /*******************************
     *                              *
     *          HOME PAGE           *
     *                              *
     *******************************/
-  
-  }
-  @media screen and (max-height: 425px) {
-    /*******************************
-    *                              *
-    *          HOME PAGE           *
-    *                              *
-    *******************************/
- 
-  }
-
-    
- 
-          
-      
+}
