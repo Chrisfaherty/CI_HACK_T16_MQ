@@ -23,3 +23,10 @@ var sfx = {
     sfx.btnSFX.play();
   })
 
+
+  // Control the audio in the game
+  gameAudio = document.getElementById("audio");
+
+  window.addEventListener('load', () => {
+   gameAudio.volume = 0.1;
+  })
