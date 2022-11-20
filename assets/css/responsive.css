@@ -54,6 +54,21 @@
     font-size: 1.7rem;
     }
 }
+@media screen and (max-width: 999px) {
+    /*******************************
+    *                              *
+    *          QUIZ PAGE           *
+    *                              *
+    *******************************/
+  .logo-game{
+    top: 5px;
+    width: 85px;
+  }
+
+  #game-section #scoreboard .progress-bar {
+    margin: 45px 0 10px;
+}
+}
 
 @media screen and (max-width: 920px) {
     /*******************************
