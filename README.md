@@ -181,7 +181,7 @@ The following flowchart sumerises the structure of the Game.
 
 On the home page, the logo in the upper left corner shows the name of the website. By clicking on the 'Let's Know' button, the user can start the quiz to test his knowledge of music. Alternatively, the toggle button in the top right corner also gives the user the option to select a particular type of music quiz.
 
-![Home page image](./assets/images/readme/music_quiz_homepage.png)
+![Home page image](./assets/images/readme/music_quiz_homepage_page.jpg)
 
 #### Quiz page
 
