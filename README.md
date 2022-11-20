@@ -212,7 +212,7 @@ The Trophy page greets the user with a message detailing the user's score and ic
 
 On the high score page, the scoreboard displays the user's score up to the top six high scores along with the user's name and icons of Silver, Bronze, and Gold guitars if any won. The 'Go Home' button navigates the user to the home page.
 
-![High score page image]()
+![High score page image](./assets/images/readme/music_quiz_high_score_page.png)
 
 
 [Back to Table Of Contents](#table-of-contents)
