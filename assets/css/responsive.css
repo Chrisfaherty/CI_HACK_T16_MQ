@@ -14,7 +14,7 @@
     *******************************/
     #game-section #scoreboard .progress-bar {
     height: 25px;
-    margin: 85px 0 35px;
+    margin: 50px 130px 35px;
     }
 
     #game-section .container-questions h2 {
@@ -33,6 +33,11 @@
 
     #game-section #scoreboard .box-score {
     bottom: 20px;
+    }
+
+    .logo-game {
+      top: 10px;
+      width: 100px;
     }
 
     /*******************************
