@@ -187,7 +187,7 @@ On the home page, the logo in the upper left corner shows the name of the websit
 
 The Quiz page displays the Quiz area with the first question of the quiz with four options. The result is displayed in green color with sound effects if the user clicks on the right answer and if wrong, the result is displayed in red with different sound effects. The progress of the quiz is displayed by a progress bar below the logo. At the bottom left corner, the user can see the current question count from the total number of questions and at the bottom right, the current score is displayed. User can navigate to home page by clicking on 'GO HOME' button even if he/she is in the middle of a quiz.
 
-![Quiz page image]()
+![Quiz page image](./assets/images/readme/music_quiz_game_page.jpg)
 
 * C
     * T
