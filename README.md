@@ -110,15 +110,22 @@ The Quiz page provides user the following features:
 #### Quiz End page
 
 The Quiz End page provides the following features:
-- option to save the quiz score by entering user name. 
-- After saving the score along with user name, user is automatically navigated to high score page.
+- Option to save the quiz score by entering user name. 
+- After saving the score along with user name, user is automatically navigated to either the trophy page or the high score page depending on user's score.
 - Nav button to navigate to home page.
+
+#### Trophy page
+
+The Trophy page provides either one of the following greeting messages:
+- User's detailed result with a Gold guitar icon, if the user gave all answers right.
+- User's detailed result with a Silver guitar icon, if the user gave nine answers right.
+- User's detailed result with a Bronze guitar icon, if the user gave eight answers right.
+
 
 #### High Score page
 
 The High Score page provides the following features:
-- Shows the top six high scores along with user names.
-- If user answers more than certain number of questions correctly, user is navigated automatically to Trophy page. 
+- Shows up to the top six high scores along with user name and icon of Silver, Bronze, and Gold guitars if any won.
 - Nav button to navigate to home page.
 
 </details>
@@ -189,51 +196,24 @@ The Quiz page displays the Quiz area with the first question of the quiz with fo
 
 ![Quiz page image](./assets/images/readme/music_quiz_game_page.jpg)
 
-* C
-    * T
+#### Quiz End page
 
-![This is an screenshot of the ]()
+The Quiz End page shows the total score of the user and gives the user an option to save the quiz score by entering the username. The 'SAVE' button takes the user to either the high score page or the trophy page, depending on the user's score. The 'Go Home' button navigates the user to the home page.
 
-* L
-    * T
+![Quiz end page image]()
 
-![This is an screenshot of the ]()
+#### Trophy page
 
-* A
-    * T
+The Trophy page greets the user with a message detailing the user's score and icons of the Silver, Bronze, and Gold guitars that the user won. The 'Continue' button navigates the user to the High Score page.
 
-![This is an screenshot of ]()
+![Trophy page image]()
 
+#### High Score page
 
-* V
-    * T
+On the high score page, the scoreboard displays the user's score up to the top six high scores along with the user's name and icons of Silver, Bronze, and Gold guitars if any won. The 'Go Home' button navigates the user to the home page.
 
-![This is an screenshot of the ]()
+![High score page image]()
 
- * E
-    * T
-
-![This is an screenshot of the ]()
-
- * E
-    * T
-
-![This is an screenshot of the ]()
-
- * E
-    * T 
-
-![This is an screenshot of the]()
-
- * E
-    * T
-
-![This is an screenshot of the ]()
-
-* E
-    * T
-
-![This is an screenshot of the]()
 
 [Back to Table Of Contents](#table-of-contents)
 
