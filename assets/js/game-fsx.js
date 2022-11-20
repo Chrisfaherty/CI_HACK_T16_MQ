@@ -13,7 +13,7 @@ var sfx = {
     }),
     btnSFX: new Howl({
         src: [
-           '../assets/sfx/game/btn-hover.mp3',
+           './assets/sfx/game/btn-hover.mp3',
         ]
     })
   }
