@@ -200,13 +200,13 @@ The Quiz page displays the Quiz area with the first question of the quiz with fo
 
 The Quiz End page shows the total score of the user and gives the user an option to save the quiz score by entering the username. The 'SAVE' button takes the user to either the high score page or the trophy page, depending on the user's score. The 'Go Home' button navigates the user to the home page.
 
-![Quiz end page image]()
+![Quiz End page image](./assets/images/readme/music_quiz_end_page.png)
 
 #### Trophy page
 
 The Trophy page greets the user with a message detailing the user's score and icons of the Silver, Bronze, and Gold guitars that the user won. The 'Continue' button navigates the user to the High Score page.
 
-![Trophy page image]()
+![Trophy page image](./assets/images/readme/music_quiz_trophy_page.png)
 
 #### High Score page
 
