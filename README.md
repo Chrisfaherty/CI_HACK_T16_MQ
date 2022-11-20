@@ -160,18 +160,19 @@ The following flowchart sumerises the structure of the Game.
 
 ## Features
 
-
 ### Existing Features
 
-* W
-    * T
+#### Home page
 
-![This is an screenshot of the ]()
+On the home page, the logo in the upper left corner shows the name of the website. By clicking on the 'Let's Know' button, the user can start the quiz to test his knowledge of music. Alternatively, the toggle button in the top right corner also gives the user the option to select a particular type of music quiz.
 
-* M
-    * T
+![Home page image]()
 
-![This is an screenshot of the ]()
+#### Quiz page
+
+The Quiz page displays the Quiz area with the first question of the quiz with four options. The result is displayed in green color with sound effects if the user clicks on the right answer and if wrong, the result is displayed in red with different sound effects. The progress of the quiz is displayed by a progress bar below the logo. At the bottom left corner, the user can see the current question count from the total number of questions and at the bottom right, the current score is displayed. User can navigate to home page by clicking on 'GO HOME' button even if he/she is in the middle of a quiz.
+
+![Quiz page image]()
 
 * C
     * T
