@@ -52,6 +52,9 @@ The Music Quiz website has been developed to provide users the chance to play th
   - [Credits](#credits)
   - [Acknowledgements](#acknowledgements)
 
+
+
+-----
 ## Project Goals
 
 ### User Goals
@@ -73,7 +76,7 @@ The Music Quiz website has been developed to provide users the chance to play th
  - To provide the user to view the total number of questions within a quiz.
  - To provide the ability to view the current status of question within a quiz.
 
-
+-----
 ## User Experience
 
 ### Target Audience
@@ -104,10 +107,15 @@ The Music Quiz website has been developed to provide users the chance to play th
     - the user learn something in regards to music.
     - the user to get feedback based on their input.
 
+
+----
+----
 ### User Manual
 
 <details><summary>Instructions</summary>
 
+
+----
 #### Overview
 
 The Music Quiz app is for users who wish to enhance the knowledge about different type of music (Jazz, Rock, Pop, Classic, EDM) by playing interactive quizzes. Each page provides the logo at the top left corner and nav button to navigate to home page.
@@ -175,9 +183,15 @@ Following are the wireframes of The Music Quiz App:
 <img src="">
 </details>
 
+----
 ### Flowchart
 
 The following flowchart sumerises the structure of the Game.
+
+![](/assets/images/readme/flowchart-01.jpg)
+
+----
+
 <details><summary>Overview</summary>
 <img src="">
 </details>
