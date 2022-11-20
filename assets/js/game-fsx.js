@@ -30,3 +30,10 @@ var sfx = {
     sfx.btnSFX.play();
   })
 
+  // Mute audio
+
+  function toggleMute() {
+   var myAudio = document.getElementById('audio');
+   myAudio.muted = !myAudio.muted;
+}
+
