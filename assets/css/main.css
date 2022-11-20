@@ -81,8 +81,9 @@
 }
 
 .logo-game {
-    margin-left: 20px;
-    margin-top: 20px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
 }
 
 .interactive-color {
