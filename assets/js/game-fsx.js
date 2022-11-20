@@ -1,3 +1,4 @@
+
 // Howler game sounds fsx array
 var sfx = {
    right: new Howl({
@@ -34,8 +35,3 @@ document.querySelector(".game-btn").addEventListener("mouseover", () => {
    sfx.btnGameSFX.play();
 })
 
-// Mute audio
-function toggleMute() {
-   var myAudio = document.getElementById('audio');
-   myAudio.muted = !myAudio.muted;
-}

@@ -24,7 +24,6 @@
         <source src="./assets/sfx/ambience/sexy-fashion-beats-simulate-11176.mp3">
         Your browser does not support the audio element
     </audio>
-    <a href="javascript:void(0);" onclick="toggleMute()">Mute/Unmute</a>
     <!-- END OF AUDIO -->
 </head>
 <!-- HERO SECTION -->
@@ -39,7 +38,12 @@
         <h3 class="fancy-text">What do you know about music ?</h3>
         <a class="btn start-game-btn" id="get-quiz-btn" aria-label="Go to a random quiz page to start a game">Let's
             Know</a>
-    </div>
+        </div>
+        <div id="audio-control">
+            <span>Audio </span>
+            <span><i class="fas fa-play interactive-color" id="play"></i></span>
+            <span><i class="fas fa-stop" id="stop"></i></span>
+        </div>
 </main>
 <!-- END OF HERO SECTION -->
 
@@ -74,6 +78,7 @@
 <script src="./assets/js/get-game.js"></script>
 <script src="./assets/js/script.js"></script>
 <script src="./assets/js/game-fsx.js"></script>
+<script src="./assets/js/audio-control.js"></script>
 <script>
     // Add sound effect to the start game button
     document.querySelector(".start-game-btn").addEventListener("mouseover", () => {

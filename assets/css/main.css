@@ -252,6 +252,25 @@ span.fade {
     margin-left: 10px;
 }
 
+#stop {
+    display: none;
+}
+
+#play.active{
+    display: none !important;
+}
+
+#stop.active{
+    display: block !important;
+}
+
+#audio-control {
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+    cursor: pointer;
+}
+
 #hero-section .text {
     position: relative;
     z-index: 10;
@@ -399,6 +418,10 @@ span.fade {
     height: 100%;
     background-color: var(--green-color);
     width: 0;
+}
+
+#game-section #audio-control {
+    bottom: 150px;
 }
 
 /*******************************
