@@ -130,19 +130,15 @@ The High Score page provides the following features:
 
 </details>
 
-[Back to Table Of Contents](#table-of-contents)
-
 ### User Stories
 
 #### First-time  User
 
-1. As a user, I want to be:
-    - Able to find interesting and meaningful quiz.
-    - Able to understand the quiz rules.
-    - Able to view my score and the result.
-    - Able to use all buttons and links perfectly.
-    - Able to easily understand the context.
-    - Able to easily navigate to all pages.
+1. As a user, I want to:
+    - have an interactive, meaningful and contextual quiz.
+    - view my progress, current score, and response to my answer during the quiz.
+    - view the final score, an option to save the score with the user nane and list of top scores after completion of the quiz.
+    - navigate using nav buttons and links easily.
 
 #### Site Owner
 2.  As the site owner, I would want:
@@ -153,6 +149,8 @@ The High Score page provides the following features:
     - The user learn something in regards to music.
     - The user to get feedback based on their input.
     - To provide a clear text of question and options. 
+
+[Back to Table Of Contents](#table-of-contents)
 
 ## Technical Design
 
@@ -245,133 +243,45 @@ On the high score page, the scoreboard displays the user's score up to the top s
 
 
 ### Testing user stories
-1. I want to the 
+
+1. As a user, I want to have an interactive, meaningful and contextual quiz.
 
 | **Feature** | **Action** | **Expected Results** | **Actual Result** |
 |-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
+|All listed features in the Features section provide the user with interactive, meaningful and contextual feedback based on user input.|Required user input|User to be provided relevant feedback based on user input|Works as expected|
 
 <details><summary>Screenshots</summary>
 <img src="">
 </details>
 
-2. I want to be able to .
+2. As a user, I want to view my progress, current score, and response to my answer during the quiz.
 
 | **Feature** | **Action** | **Expected Results** | **Actual Result** |
 |-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
+|Progres status, user score, audio & visual response to user answer during the quiz|Select answer to the question|Progress status is shown in bar graph format and current question number out of total questions|Works as expected| 
 
 <details><summary>Screenshots</summary>
 <img src="">
 </details>
 
-3. I want to .
+3. As a user, I want to view the final score, an option to save the score with the user nane and list of top scores after completion of the quiz.
 
 | **Feature** | **Action** | **Expected Results** | **Actual Result** |
 |-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
+|Show final score|Completion of quiz|Final score is shown|Works as expected|
+|Save score with user name|Input user name and click save button|Score is saved with user name|Works as expected|
+|Show list of saved high scores|After completing the quiz, input user name and click save button or click on nave link 'High Scores' from the toggle bar|Up to top six High scores with user name are shown|Works as expected|
+|Show trophy page for more than seven correct answers|After completing the quiz, input user name and click save button|Show Gold, Silver, and Bronze trophy if the user gives the right answers to 10, 9, 8 questions respectively|Works as expected|  
 
 <details><summary>Screenshots</summary>
 <img src="">
 </details>
 
-4. I want to .
-
+4. As a user, I want to navigate using nav buttons and links easily.
+  
 | **Feature** | **Action** | **Expected Results** | **Actual Result** |
 |-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
-
-<details><summary>Screenshots</summary>
-<img src="">
-</details>
-
-5. I want to.
-
-| **Feature** | **Action** | **Expected Results** | **Actual Result** |
-|-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
-
-<details><summary>Screenshots</summary>
-<img src="">
-</details>
-
-6. I want to .
-
-| **Feature** | **Action** | **Expected Results** | **Actual Result** |
-|-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
-
-<details><summary>Screenshots</summary>
-<img src="">
-</details>
-
-7. I want to.  
-
-| **Feature** | **Action** | **Expected Results** | **Actual Result** |
-|-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
-
-<details><summary>Screenshots</summary>
-<img src="">
-</details>
-
-8. I want users to.
-
-| **Feature** | **Action** | **Expected Results** | **Actual Result** |
-|-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
-
-<details><summary>Screenshots</summary>
-<img src="">
-</details>
-
-9. I want users to .
-
-| **Feature** | **Action** | **Expected Results** | **Actual Result** |
-|-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
-
-<details><summary>Screenshots</summary>
-<img src="">
-</details>
-
-10. I want users to.
-
-| **Feature** | **Action** | **Expected Results** | **Actual Result** |
-|-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
-
-<details><summary>Screenshots</summary>
-<img src="">
-</details>
-
-11. I want users to.
-
-| **Feature** | **Action** | **Expected Results** | **Actual Result** |
-|-------------|------------|----------------------|-------------------|
-| M | I | U | W |
-| L | I| U | W |
-| L | I| U | W |
+|All nav buttons and toggle bar nav links navigate the user to the intended page of the website|User click|As described in feature|Works as expected| 
 
 <details><summary>Screenshots</summary>
 <img src="">
