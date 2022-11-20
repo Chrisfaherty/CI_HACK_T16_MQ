@@ -36,14 +36,6 @@
             var(--black-color)),
         url(../images/main-bg.jpg);
     background-position: right;
-    height: 100vh !important;
-}
-
-.bg-rock {
-    background-image: linear-gradient(280deg,
-            rgba(0, 0, 0, 0.3),
-            var(--black-color)),
-        url(../images/rock-bg.jpg);
 }
 
 .bg-jazz {
