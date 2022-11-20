@@ -17,16 +17,16 @@ var sfx = {
         ]
     })
   }
+  
+// Control the audio in the game
+    gameAudio = document.getElementById("audio");
+  
+    window.addEventListener('load', () => {
+     gameAudio.volume = 0.2;
+    })
 
 // Add sound effect to the start game button
   document.querySelector(".start-game-btn").addEventListener("mouseover", () => {
     sfx.btnSFX.play();
   })
 
-
-  // Control the audio in the game
-  gameAudio = document.getElementById("audio");
-
-  window.addEventListener('load', () => {
-   gameAudio.volume = 0.1;
-  })
