@@ -575,9 +575,13 @@ Audio and visual response of user-selected answers, update current score and pro
 
 ### Images and Graphics
   * Background images
-    * index.html [wallpaperaccess.com](https://wallpaperaccess.com/full/2742175.jpg)
-    * rock [Thomas Kelley on Unsplash](https://unsplash.com/photos/2ZWCDBuw1B8)
-    * jazz [Chris Blair on Unsplash](https://unsplash.com/photos/A10y2Eq7OHY)
+    * Home page [Thomas Kelley on Unsplash](https://unsplash.com/photos/2ZWCDBuw1B8)
+    * Rock [Michael Dobrinski on Unsplash](https://unsplash.com/photos/AJxufJsFmvW0)
+    * Jazz [Chris Blair on Unsplash](https://unsplash.com/photos/A10y2Eq7OHY)
+    * Pop [wallpaperaccess.com](https://wallpaperaccess.com/full/2742175.jpg)
+    * Classical [Larisa Birta on Unsplash](https://unsplash.com/photos/slbOcNlWNHA)
+    * EDM [Marcela Laskoski on Unsplash](https://unsplash.com/photos/YrtFlrLo2DQ)
+  * Logo graphic [pngegg.com](https://www.pngegg.com/en/png-pdkah) 
 
 
 ## Acknowledgements
