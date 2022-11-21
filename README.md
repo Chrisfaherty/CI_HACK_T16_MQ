@@ -183,15 +183,6 @@ The High Score page provides the following features:
 
 ## Technical Design
 
-### Wireframes
-
-Following are the wireframes of The Music Quiz App:
-
-<details><summary>Overview</summary>
-<img src="">
-</details>
-
-----
 ### Flowchart
 
 The following flowchart sumerises the structure of the Game.
@@ -202,55 +193,111 @@ The following flowchart sumerises the structure of the Game.
 
 ### Wireframes
 
+Following are the wireframes of The Music Quiz App:
+
 <details><summary>Index Page</summary>
-<img src="./assets/images/readme/wireframe/index-html-desktop-wireframe.png">
 <img src="./assets/images/readme/wireframe/index-html-tablet-wireframe.png">
+
+----
+<img src="./assets/images/readme/wireframe/index-html-desktop-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/index-html-mobile-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/index-html-menu-desktop-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/index-html-menu-tablet-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/index-html-menu-mobile-wireframe.png">
+
+----
 </details>
 
 <details><summary>Rock</summary>
 <img src="./assets/images/readme/wireframe/rock-html-desktop-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/rock-html-tablet-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/rock-html-mobile-wireframe.png">
+
+----
 </details>
 
 <details><summary>Jazz</summary>
 <img src="./assets/images/readme/wireframe/jazz-html-desktop-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/jazz-html-tablet-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/jazz-html-mobile-wireframe.png">
+
+----
 </details>
 
 <details><summary>Pop</summary>
 <img src="./assets/images/readme/wireframe/pop-html-desktop-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/pop-html-tablet-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/pop-html-mobile-wireframe.png">
+
+----
 </details>
 
 <details><summary>Classic</summary>
 <img src="./assets/images/readme/wireframe/classic-html-desktop-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/classic-html-tablet-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/classic-html-mobile-wireframe.png">
+
+----
 </details>
 
 <details><summary>EDM</summary>
 <img src="./assets/images/readme/wireframe/edm-html-desktop-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/edm-html-tablet-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/edm-html-mobile-wireframe.png">
+
+----
 </details>
 
 <details><summary>End Game</summary>
 <img src="./assets/images/readme/wireframe/endgame-html-desktop-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/endgame-html-tablet-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/endgame-html-mobile-wireframe.png">
+
+----
 </details>
 
 <details><summary>Score</summary>
 <img src="./assets/images/readme/wireframe/score-html-desktop-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/score-html-tablet-wireframe.png">
+
+----
 <img src="./assets/images/readme/wireframe/score-html-mobile-wireframe.png">
+
+----
 </details>
 
 ## Technologies Used
@@ -384,6 +431,42 @@ On the high score page, the scoreboard displays the user's score up to the top s
 <details><summary>Screenshots</summary>
 <img src="./assets/images/readme/music_quiz_home_toggle.png">">
 </details>
+
+### Testing Site Owner
+
+ 1. As the site owner, I want to provide a music-relevant and well-instructed quiz.
+  
+| **Feature** | **Action** | **Expected Results** | **Actual Result** |
+|-------------|------------|----------------------|-------------------|  
+|Theme (Jazz, Rock, Pop, Classic, EDM) based music quizzes|Click on particular quiz through toggle bar|Particular quiz is displayed with the name of theme at the top right corner|Works as expected|
+
+
+2. As the site owner, I want the user to be able to see the progress, current score, and response to user's answer during the quiz.
+  
+| **Feature** | **Action** | **Expected Results** | **Actual Result** |
+|-------------|------------|----------------------|-------------------|  
+|Progres status, user current score board, audio & visual response to user answer during the quiz|Select answer to the question|Progress status is shown in bar graph format, shows current question number out of total questions and current score on the quiz page|Works as expected| 
+
+
+3. As the owner of the site, I want the user to be able to easily navigate through all the pages.
+  
+| **Feature** | **Action** | **Expected Results** | **Actual Result** |
+|-------------|------------|----------------------|-------------------|  
+Intractive nav buttons and links|User Click on buttons and links|Nav buttons and links navigate the user at respective page|Works as expected|
+
+
+4. As the site owner, I would want to the user learn something in regards to music
+
+| **Feature** | **Action** | **Expected Results** | **Actual Result** |
+|-------------|------------|----------------------|-------------------|  
+Quizzes based on different types (Jazz, Rock, Pop, Classic, EDM) of music|Navigate to quiz pages|Each quiz page have relevent type of musical questions|Woeks as expected|
+
+
+5. As the site owner, I would want to the user to get feedback based on their input.
+  
+| **Feature** | **Action** | **Expected Results** | **Actual Result** |
+|-------------|------------|----------------------|-------------------|  
+Audio and visual response of user-selected answers, update current score and progress bar|User input|Response of user's particular input|Works as expected|
 
 [Back to Table Of Contents](#table-of-contents)
 
