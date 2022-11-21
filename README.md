@@ -35,6 +35,7 @@ The Music Quiz website has been developed to provide users the chance to play th
       - [Site Owner](#site-owner)
   - [Technical Design](#technical-design)
     - [Flowchart](#flowchart)
+    - [Wireframes](#wireframes)
   - [Technologies Used](#technologies-used)
     - [Languages](#languages)
     - [Framework and Tools](#framework-and-tools)
@@ -192,13 +193,57 @@ The following flowchart sumerises the structure of the Game.
 
 ----
 
-<details><summary>Overview</summary>
-<img src="">
+### Wireframes
+
+<details><summary>Index Page</summary>
+<img src="./assets/images/readme/wireframe/index-html-desktop-wireframe.png">
+<img src="./assets/images/readme/wireframe/index-html-tablet-wireframe.png">
+<img src="./assets/images/readme/wireframe/index-html-mobile-wireframe.png">
+<img src="./assets/images/readme/wireframe/index-html-menu-desktop-wireframe.png">
+<img src="./assets/images/readme/wireframe/index-html-menu-tablet-wireframe.png">
+<img src="./assets/images/readme/wireframe/index-html-menu-mobile-wireframe.png">
 </details>
 
-<details><summary>Options</summary>
-<img src="">
+<details><summary>Rock</summary>
+<img src="./assets/images/readme/wireframe/rock-html-desktop-wireframe.png">
+<img src="./assets/images/readme/wireframe/rock-html-tablet-wireframe.png">
+<img src="./assets/images/readme/wireframe/rock-html-mobile-wireframe.png">
+</details>
 
+<details><summary>Jazz</summary>
+<img src="./assets/images/readme/wireframe/jazz-html-desktop-wireframe.png">
+<img src="./assets/images/readme/wireframe/jazz-html-tablet-wireframe.png">
+<img src="./assets/images/readme/wireframe/jazz-html-mobile-wireframe.png">
+</details>
+
+<details><summary>Pop</summary>
+<img src="./assets/images/readme/wireframe/pop-html-desktop-wireframe.png">
+<img src="./assets/images/readme/wireframe/pop-html-tablet-wireframe.png">
+<img src="./assets/images/readme/wireframe/pop-html-mobile-wireframe.png">
+</details>
+
+<details><summary>Classic</summary>
+<img src="./assets/images/readme/wireframe/classic-html-desktop-wireframe.png">
+<img src="./assets/images/readme/wireframe/classic-html-tablet-wireframe.png">
+<img src="./assets/images/readme/wireframe/classic-html-mobile-wireframe.png">
+</details>
+
+<details><summary>EDM</summary>
+<img src="./assets/images/readme/wireframe/edm-html-desktop-wireframe.png">
+<img src="./assets/images/readme/wireframe/edm-html-tablet-wireframe.png">
+<img src="./assets/images/readme/wireframe/edm-html-mobile-wireframe.png">
+</details>
+
+<details><summary>End Game</summary>
+<img src="./assets/images/readme/wireframe/endgame-html-desktop-wireframe.png">
+<img src="./assets/images/readme/wireframe/endgame-html-tablet-wireframe.png">
+<img src="./assets/images/readme/wireframe/endgame-html-mobile-wireframe.png">
+</details>
+
+<details><summary>Score</summary>
+<img src="./assets/images/readme/wireframe/score-html-desktop-wireframe.png">
+<img src="./assets/images/readme/wireframe/score-html-tablet-wireframe.png">
+<img src="./assets/images/readme/wireframe/score-html-mobile-wireframe.png">
 </details>
 
 ## Technologies Used
