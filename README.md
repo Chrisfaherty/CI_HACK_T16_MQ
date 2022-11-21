@@ -391,9 +391,6 @@ On the high score page, the scoreboard displays the user's score up to the top s
 
 ## Testing
 
-* Testing was condicted in three ways.
-    * T
-
 ### Validator Testing
 
  - __HTML__
@@ -417,28 +414,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
  
      - Lighthouse test result for mobile [See here]()
 
-     ----
-
      - Lighthouse test result for desktop [See here]()
-
-   
-
-
-    <details><summary></summary>
-    <img src="">
-    </details>
-
-    <details><summary></summary>
-    <img src="">
-    </details>
-
-    <details><summary></summary>
-    <img src="">
-    </details>
-
-    <details><summary></summary>
-    <img src="">
-    </details>
 
 
 ### Testing User Stories
@@ -534,8 +510,7 @@ Audio and visual response of user-selected answers, update current score and pro
 ----
 
 ### Fixed Bugs
-* Wh
-    * FIX:
+
 
 ## Deployment
 
