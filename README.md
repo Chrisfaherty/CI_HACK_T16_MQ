@@ -1,5 +1,5 @@
 # The Music Quiz
-(Developers: )
+(Developers: Pedro Alexandre Cristo, Christopher Faherty, Jyoti Yadav, Robert Andersson, Emidio Valeretto, Emma Hewson)
 
 ![This is an screenshot of the responsive design image](./assets/images/readme/music_quiz_responsiveness.png)
 
