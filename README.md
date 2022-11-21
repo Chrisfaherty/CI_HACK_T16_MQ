@@ -55,7 +55,8 @@ The Music Quiz website has been developed to provide users the chance to play th
     - [Validator Testing](#validator-testing)
     - [Testing User Stories](#testing-user-stories)
     - [Testing Site Owner](#testing-site-owner)
-    - [Fixed Bugs](#fixed-bugs)
+    - [Unfixed Bugs](#unfixed-bugs)
+      - [Home page](#home-page-2)
   - [Deployment](#deployment)
     - [Deploying to Github Pages](#deploying-to-github-pages)
     - [Forking the GitHub Repository](#forking-the-github-repository)
@@ -555,8 +556,14 @@ Audio and visual response of user-selected answers, update current score and pro
 
 ----
 
-### Fixed Bugs
+### Unfixed Bugs
 
+#### Home page 
+
+![Home page](./assets/images/readme/test/quiz_music_game_console_error_home.png)
+![Game page](./assets/images/readme/test/quiz_music_game_console_error_game.png)
+
+---
 
 ## Deployment
 
