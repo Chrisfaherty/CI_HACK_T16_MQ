@@ -5,7 +5,7 @@ Developers: Pedro Alexandre Cristo, Christopher Faherty, Jyoti Yadav, Robert And
 
 ----
 
-[Live Webpage](https://8000-chrisfahert-cihackt16mq-ww9joothxyz.ws-eu74.gitpod.io/)
+[Live Webpage](https://chrisfaherty.github.io/CI_HACK_T16_MQ/index.html)
 
 ----
 
@@ -549,7 +549,7 @@ Audio and visual response of user-selected answers, update current score and pro
     - From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
     - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
- The live link can be found here:- https://8000-chrisfahert-cihackt16mq-ww9joothxyz.ws-eu74.gitpod.io
+ The live link can be found here:- https://chrisfaherty.github.io/CI_HACK_T16_MQ/index.html
 
 ### Forking the GitHub Repository
 
