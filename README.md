@@ -22,6 +22,8 @@ The Music Quiz website has been developed to provide users the chance to play th
     - [User Goals](#user-goals)
     - [Site Owner Goals](#site-owner-goals)
   - [User Experience](#user-experience)
+  - [Design](#design)
+      - [Colours](#colours)
       - [Typography](#typography)
     - [Target Audience](#target-audience)
     - [User Requirements and Expectations](#user-requirements-and-expectations)
@@ -88,6 +90,12 @@ The Music Quiz website has been developed to provide users the chance to play th
 
 -----
 ## User Experience
+
+## Design
+
+#### Colours
+
+![Colours Palete](./assets/images/readme/extras/quiz_music_game_color_scheme.png)
 
 #### Typography
 
