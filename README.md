@@ -573,6 +573,11 @@ Audio and visual response of user-selected answers, update current score and pro
   * Sounds Effect [Boombox](https://boombox.mtmograph.com/)
   * Ambience Music [Pixbay](https://pixabay.com/)
 
+### Images and Graphics
+  * Background images
+    * index.html [wallpaperaccess.com](https://wallpaperaccess.com/full/2742175.jpg)
+    * rock [Thomas Kelley on Unsplash](https://unsplash.com/photos/2ZWCDBuw1B8)
+    * jazz [Chris Blair on Unsplash](https://unsplash.com/photos/A10y2Eq7OHY)
 
 
 ## Acknowledgements
