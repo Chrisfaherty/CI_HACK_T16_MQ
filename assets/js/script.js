@@ -13,7 +13,7 @@ menuToggle.addEventListener('click', () => {
 
 
 menuToggle2.addEventListener('click', () => {
-    menuLeft.classList.remove('active')
+    menuLeft.classList.remove('active');
 });
 
 //  Fancy Text Animation
