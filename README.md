@@ -35,9 +35,8 @@ The Music Quiz website has been developed to provide users the chance to play th
       - [Trophy page](#trophy-page)
       - [High Score page](#high-score-page)
   - [Technical Design](#technical-design)
-    - [Wireframes](#wireframes)
     - [Flowchart](#flowchart)
-    - [Wireframes](#wireframes-1)
+    - [Wireframes](#wireframes)
   - [Technologies Used](#technologies-used)
     - [Languages](#languages)
     - [Framework and Tools](#framework-and-tools)
@@ -51,13 +50,14 @@ The Music Quiz website has been developed to provide users the chance to play th
   - [Testing](#testing)
     - [Validator Testing](#validator-testing)
     - [Testing User Stories](#testing-user-stories)
+    - [Testing Site Owner](#testing-site-owner)
     - [Fixed Bugs](#fixed-bugs)
   - [Deployment](#deployment)
     - [Deploying to Github Pages](#deploying-to-github-pages)
     - [Forking the GitHub Repository](#forking-the-github-repository)
   - [Credits](#credits)
-    - [Quiz Questions:](#quiz-questions)
-    - [Sounds Effect and Music](#sounds-effect-and-music)
+    - [Quiz Questions](#quiz-questions)
+    - [Sounds Effect and Ambience Music](#sounds-effect-and-ambience-music)
   - [Acknowledgements](#acknowledgements)
 
 
@@ -497,19 +497,19 @@ Audio and visual response of user-selected answers, update current score and pro
 
 ## Credits
 
-### Quiz Questions: 
-    * [factmonster.com](https://www.factmonster.com/take-quiz/jazz)
-    * [ultimatequizquestions.com](https://www.ultimatequizquestions.com/jazz-quiz/)
-    * [quiztriviagames.com](https://www.quiztriviagames.com/pop-music-quiz/)
-    * [usefultrivia.com](https://www.usefultrivia.com/music_trivia/classical_music_trivia.html)
-    * [freepubquiz.co.uk](http://www.freepubquiz.co.uk/orchestra-quiz.html)
-    * [hhowstuffworks.com](https://play.howstuffworks.com/quiz/electronic-dance-music-quiz)
-    * [laweekly.com](https://www.laweekly.com/are-you-a-real-edm-fan-take-this-quiz/)
-    * [britannica.com](https://www.britannica.com/quiz/rock-music-and-rock-n-roll)
+### Quiz Questions
+  * [Factmonster](https://www.factmonster.com/take-quiz/jazz)
+  * [Ultimatequizquestions](https://www.ultimatequizquestions.com/jazz-quiz/)
+  * [Quiztriviagames](https://www.quiztriviagames.com/pop-music-quiz/)
+  * [Usefultrivia](https://www.usefultrivia.com/music_trivia/classical_music_trivia.html)
+  * [Freepubquiz.co](http://www.freepubquiz.co.uk/orchestra-quiz.html)
+  * [Hhowstuffworks](https://play.howstuffworks.com/quiz/electronic-dance-music-quiz)
+  * [Laweekly](https://www.laweekly.com/are-you-a-real-edm-fan-take-this-quiz/)
+  * [Britannica](https://www.britannica.com/quiz/rock-music-and-rock-n-roll)
 
-### Sounds Effect and Music
-  * [Sound Effects](https://boombox.mtmograph.com/)
-  * [Ambience Music](https://pixabay.com/)
+### Sounds Effect and Ambience Music
+  * Sounds Effect [Boombox](https://boombox.mtmograph.com/)
+  * Ambience Music [Pixbay](https://pixabay.com/)
 
 
 
