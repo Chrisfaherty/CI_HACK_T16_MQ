@@ -58,6 +58,7 @@ The Music Quiz website has been developed to provide users the chance to play th
   - [Credits](#credits)
     - [Quiz Questions](#quiz-questions)
     - [Sounds Effect and Ambience Music](#sounds-effect-and-ambience-music)
+    - [Images and Graphics](#images-and-graphics)
   - [Acknowledgements](#acknowledgements)
 
 
@@ -522,7 +523,7 @@ Audio and visual response of user-selected answers, update current score and pro
     - From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
     - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-  The live link can be found here- https://8000-chrisfahert-cihackt16mq-ww9joothxyz.ws-eu74.gitpod.io/
+ * [The live link can be found here](https://8000-chrisfahert-cihackt16mq-ww9joothxyz.ws-eu74.gitpod.io/)
 
 ### Forking the GitHub Repository
 
