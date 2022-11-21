@@ -421,6 +421,11 @@ On the high score page, the scoreboard displays the user's score up to the top s
 
    - No error was returned when passing through the official for index.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fchrisfaherty.github.io%2FCI_HACK_T16_MQ%2Findex.html)
 
+   <br>
+    - <details><summary>Home Page</summary>
+      <img src="./assets/images/readme/test/quiz_music_game_html_validator_index_results.png">
+      </details>
+
  - __CSS__
  
    - No errors were found when passing through the official [W3C validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchrisfaherty.github.io%2FCI_HACK_T16_MQ%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
