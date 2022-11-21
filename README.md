@@ -429,7 +429,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
   - __Accessibility__
 
       <details><summary>Lighthouse test result for mobile</summary>
-      <img src="./assets/images/readme/music_quiz_game_page.jpg">
+      <img src="./assets/images/readme/test/quiz_music_game_lighthouse_mobile.results.png">
       </details>
       <details><summary>Lighthouse test result for desktop</summary>
       <img src="./assets/images/readme/test/quiz_music_game_lighthouse_desktop.results.png">
