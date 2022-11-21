@@ -1,5 +1,5 @@
 # The Music Quiz
-(Developers: Pedro Alexandre Cristo, Christopher Faherty, Jyoti Yadav, Robert Andersson, Emidio Valeretto, Emma Hewson)
+Developers: Pedro Alexandre Cristo, Christopher Faherty, Jyoti Yadav, Robert Andersson, Emidio Valeretto, Emma Hewson
 
 ![This is an screenshot of the responsive design image](./assets/images/readme/music_quiz_responsiveness.png)
 
@@ -586,7 +586,14 @@ Audio and visual response of user-selected answers, update current score and pro
 
 ## Acknowledgements
 I would like to take the opportunity to thank:
-* M
+* The Team
+  * Jyoti Yadav
+  * Robert Andersson
+  * Emma Hewson
+  * Pedro Alexandre Cristo
+  * Christopher Faherty
+  * Emidio Valeretto
+* [Code Institute](https://codeinstitute.net/) & the hackteam for all their hard work in running the hackathon
 
 [Back to Table Of Contents](#table-of-contents)
 
