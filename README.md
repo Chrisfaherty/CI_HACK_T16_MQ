@@ -395,8 +395,14 @@ On the high score page, the scoreboard displays the user's score up to the top s
     * T
 
 ### Validator Testing
-* p
-    * N
+
+ - __HTML__
+
+   - No error was returned when passing through the official for index.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fchrisfaherty.github.io%2FCI_HACK_T16_MQ%2Findex.html)
+
+ - __CSS__
+ 
+   - No errors were found when passing through the official [(Jigsaw) validator]()
 
     <details><summary></summary>
     <img src="">
