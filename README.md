@@ -57,6 +57,7 @@ The Music Quiz website has been developed to provide users the chance to play th
     - [Testing Site Owner](#testing-site-owner)
     - [Unfixed Bugs](#unfixed-bugs)
       - [Home page](#home-page-2)
+      - [Game Pages](#game-pages)
   - [Deployment](#deployment)
     - [Deploying to Github Pages](#deploying-to-github-pages)
     - [Forking the GitHub Repository](#forking-the-github-repository)
@@ -557,10 +558,15 @@ Audio and visual response of user-selected answers, update current score and pro
 ----
 
 ### Unfixed Bugs
+While we were developing the game we notice the error on the console one is related to the Howler CDN library we are using to add sounds effect to the game other is related to a JS add event listener function. After I considerately mont of time spent trying to fix this bug and searching online for help unfortunately we didn't find any solution.
 
 #### Home page 
 
 ![Home page](./assets/images/readme/test/quiz_music_game_console_error_home.png)
+<br>
+
+#### Game Pages
+
 ![Game page](./assets/images/readme/test/quiz_music_game_console_error_game.png)
 
 ---
