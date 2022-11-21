@@ -480,6 +480,10 @@ span.fade {
     font-size: 2rem;
 }
 
+#scores-page .fa-guitar {
+    font-size: 2rem !important;
+}
+
 /*******************************
 *                              *
 *        TROPHY PAGE           *
