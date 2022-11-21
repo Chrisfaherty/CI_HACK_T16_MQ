@@ -24,18 +24,20 @@ The Music Quiz website has been developed to provide users the chance to play th
   - [User Experience](#user-experience)
     - [Target Audience](#target-audience)
     - [User Requirements and Expectations](#user-requirements-and-expectations)
+    - [User Stories](#user-stories)
+      - [First-time User](#first-time-user)
+      - [Site Owner](#site-owner)
     - [User Manual](#user-manual)
       - [Overview](#overview)
       - [Home page](#home-page)
       - [Quiz page](#quiz-page)
       - [Quiz End page](#quiz-end-page)
+      - [Trophy page](#trophy-page)
       - [High Score page](#high-score-page)
-    - [User Stories](#user-stories)
-      - [First-time  User](#first-time--user)
-      - [Site Owner](#site-owner)
   - [Technical Design](#technical-design)
-    - [Flowchart](#flowchart)
     - [Wireframes](#wireframes)
+    - [Flowchart](#flowchart)
+    - [Wireframes](#wireframes-1)
   - [Technologies Used](#technologies-used)
     - [Languages](#languages)
     - [Framework and Tools](#framework-and-tools)
@@ -43,14 +45,19 @@ The Music Quiz website has been developed to provide users the chance to play th
     - [Existing Features](#existing-features)
       - [Home page](#home-page-1)
       - [Quiz page](#quiz-page-1)
+      - [Quiz End page](#quiz-end-page-1)
+      - [Trophy page](#trophy-page-1)
+      - [High Score page](#high-score-page-1)
   - [Testing](#testing)
     - [Validator Testing](#validator-testing)
-    - [Testing user stories](#testing-user-stories)
+    - [Testing User Stories](#testing-user-stories)
     - [Fixed Bugs](#fixed-bugs)
   - [Deployment](#deployment)
     - [Deploying to Github Pages](#deploying-to-github-pages)
     - [Forking the GitHub Repository](#forking-the-github-repository)
   - [Credits](#credits)
+    - [Quiz Questions:](#quiz-questions)
+    - [Sounds Effect and Music](#sounds-effect-and-music)
   - [Acknowledgements](#acknowledgements)
 
 
@@ -406,16 +413,19 @@ On the high score page, the scoreboard displays the user's score up to the top s
 
 ## Credits
 
-* Quiz Questions: 
-    * [https://www.factmonster.com/take-quiz/jazz](https://www.factmonster.com/take-quiz/jazz)
-    * [https://www.ultimatequizquestions.com/jazz-quiz/](https://www.ultimatequizquestions.com/jazz-quiz/)
-    * [https://www.quiztriviagames.com/pop-music-quiz/](https://www.quiztriviagames.com/pop-music-quiz/)
-    * [https://www.usefultrivia.com/music_trivia/classical_music_trivia.html](https://www.usefultrivia.com/music_trivia/classical_music_trivia.html)
-    * [http://www.freepubquiz.co.uk/orchestra-quiz.html](http://www.freepubquiz.co.uk/orchestra-quiz.html)
-    * [https://play.howstuffworks.com/quiz/electronic-dance-music-quiz](https://play.howstuffworks.com/quiz/electronic-dance-music-quiz)
-    * [https://www.laweekly.com/are-you-a-real-edm-fan-take-this-quiz/](https://www.laweekly.com/are-you-a-real-edm-fan-take-this-quiz/)
-    * [https://www.britannica.com/quiz/rock-music-and-rock-n-roll](https://www.britannica.com/quiz/rock-music-and-rock-n-roll)
-- Sound Effects: https://boombox.mtmograph.com/
+### Quiz Questions: 
+    * [factmonster.com](https://www.factmonster.com/take-quiz/jazz)
+    * [ultimatequizquestions.com](https://www.ultimatequizquestions.com/jazz-quiz/)
+    * [quiztriviagames.com](https://www.quiztriviagames.com/pop-music-quiz/)
+    * [usefultrivia.com](https://www.usefultrivia.com/music_trivia/classical_music_trivia.html)
+    * [freepubquiz.co.uk](http://www.freepubquiz.co.uk/orchestra-quiz.html)
+    * [hhowstuffworks.com](https://play.howstuffworks.com/quiz/electronic-dance-music-quiz)
+    * [laweekly.com](https://www.laweekly.com/are-you-a-real-edm-fan-take-this-quiz/)
+    * [britannica.com](https://www.britannica.com/quiz/rock-music-and-rock-n-roll)
+
+### Sounds Effect and Music
+  * [Sound Effects](https://boombox.mtmograph.com/)
+  * [Ambience Music](https://pixabay.com/)
 
 
 
