@@ -357,15 +357,14 @@ Following are the wireframes of The Music Quiz App:
 
 #### Home page
 
-On the website homepage, users have access to the sidebar by clicking on the bars icon on the top right of the screen. Once opened, users can choose a quiz to play or check the scores page.
+On the home page, the logo in the upper left corner shows the name of the website. By clicking on the 'Let's Know' button, the user can start the quiz to test his knowledge of music. Alternatively, the toggle button in the top right corner also gives the user the option to select a particular type of music quiz.
 
 ![Home page image](./assets/images/readme/music_quiz_homepage_page.jpg)
 
 ---
 
 #### Home page -sidebar
-
-On the home page, the logo in the upper left corner shows the name of the website. By clicking on the 'Let's Know' button, the user can start the quiz to test his knowledge of music. Alternatively, the toggle button in the top right corner also gives the user the option to select a particular type of music quiz.
+On the website homepage, users have access to the sidebar by clicking on the bars icon on the top right of the screen. Once opened, users can choose a quiz to play or check the scores page.
 
 ![Home page image](./assets/images/readme/music_quiz_homepage_nav_page.jpg)
 
