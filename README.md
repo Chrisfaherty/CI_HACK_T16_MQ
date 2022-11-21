@@ -404,6 +404,26 @@ On the high score page, the scoreboard displays the user's score up to the top s
  
    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchrisfaherty.github.io%2FCI_HACK_T16_MQ%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+ - __JavaScript__
+
+   - No errors were found when passing through the official Jshint validator [JSHint Validator](https://jshint.com/)
+   - The following metrics were returned:
+   - There are 4 functions in this file.
+   - Function with the largest signature take 0 arguments, while the median is 0.
+   - Largest function has 6 statements in it, while the median is 2.5.
+   - The most complex function has a cyclomatic complexity value of 2 while the median is 1.
+    
+  - __Accessibility__
+ 
+     - Lighthouse test result for mobile [See here]()
+
+     ----
+
+     - Lighthouse test result for desktop [See here]()
+
+   
+
+
     <details><summary></summary>
     <img src="">
     </details>
