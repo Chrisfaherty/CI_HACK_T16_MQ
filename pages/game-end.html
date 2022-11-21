@@ -19,13 +19,13 @@
   <link rel="stylesheet" href="../assets/css/main.css">
   <link rel="stylesheet" href="../assets/css/responsive.css">
 </head>
+<body>
 <!-- AUDIO -->
-<audio id="audio" autoplay="true" loop="true">
+<audio id="audio" autoplay loop>
   <source src="../assets/sfx/ambience/m-quattro-light-bits-of-the-digital-shaman-gugugu.mp3">
   Your browser does not support the audio element
 </audio>
 
-<body>
   <!-- GAME END SECTION -->
   <section id="game-end" class="main-bg">
     <a href="../index.html"><img src="../assets/images/music-quiz-logo.png" alt="The Music Quiz logo" class="logomark logo-game"></a>
@@ -37,7 +37,7 @@
         </div>
         <form class="flex-column flex-center">
           <input class="text-center" type="text" name="username" id="username" placeholder="username" required
-            maxlength="12" />
+            maxlength="12">
           <button type="submit" class="btn" id="save-score" onclick="saveHighScore(event)" disabled>
             <span><i class="far fa-save"></i></span> Save
           </button>

@@ -22,23 +22,26 @@
   <link rel="stylesheet" href="../assets/css/responsive.css">
 </head>
 
-<!-- AUDIO -->
-<audio id="audio" autoplay="true" loop="true">
-  <source src="../assets/sfx/ambience/geovane-bruno-nice-energy.mp3">
-  Your browser does not support the audio element
-</audio>
-<!-- END OF AUDIO -->
-
 <body>
+
+  <!-- AUDIO -->
+  <audio id="audio" autoplay loop>
+    <source src="../assets/sfx/ambience/geovane-bruno-nice-energy.mp3">
+    Your browser does not support the audio element
+  </audio>
+  <!-- END OF AUDIO -->
+
   <!-- TROPHY SECTION -->
   <section id="trophy-page" class="main-bg">
-    <a href="../index.html"><img src="../assets/images/music-quiz-logo.png" alt="The Music Quiz logo" class="logomark logo-game"></a>
+    <a href="../index.html"><img src="../assets/images/music-quiz-logo.png" alt="The Music Quiz logo"
+        class="logomark logo-game"></a>
     <div class="container">
       <div class="flex-center flex-column">
         <h3 class="title text-center">Congratulations!!<br>You got the gold guitar <i
             class="fas fa-guitar gold-color"></i><br>You
           answered all the questions right.</h3>
-        <a href="./scores.html" class="btn game-btn" aria-label="Go to the scores page"><i class="fas fa-arrow-left"></i>
+        <a href="./scores.html" class="btn game-btn" aria-label="Go to the scores page"><i
+            class="fas fa-arrow-left"></i>
           Continue</a>
       </div>
     </div>
@@ -46,11 +49,11 @@
       <span>Audio </span>
       <span><i class="fas fa-play interactive-color" id="play"></i></span>
       <span><i class="fas fa-stop" id="stop"></i></span>
-  </div>
+    </div>
   </section>
   <!-- END OF TROPHY SECTION -->
 
-   <!-- JS -->
+  <!-- JS -->
   <script src="../assets/js/game-fsx.js"></script>
   <script src="../assets/js/audio-control.js"></script>
 </body>
