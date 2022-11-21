@@ -402,7 +402,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
 
  - __CSS__
  
-   - No errors were found when passing through the official [(Jigsaw) validator]()
+   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchrisfaherty.github.io%2FCI_HACK_T16_MQ%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
     <details><summary></summary>
     <img src="">
