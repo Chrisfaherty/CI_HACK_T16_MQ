@@ -415,7 +415,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
  
      - Lighthouse test result for mobile [See here]()
 
-     - Lighthouse test result for desktop [See here](./assets/images/readme/test/quiz_music_game_lighthouse_results.png)
+     - Lighthouse test result for desktop [See here](./assets/images/readme/test/quiz_music_game_lighthouse_desktop.results.png)
 
 
 ### Testing User Stories
