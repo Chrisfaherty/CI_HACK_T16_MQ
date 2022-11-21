@@ -446,6 +446,12 @@ On the high score page, the scoreboard displays the user's score up to the top s
    - Function with the largest signature take 0 arguments, while the median is 0.
    - Largest function has 6 statements in it, while the median is 2.5.
    - The most complex function has a cyclomatic complexity value of 2 while the median is 1.
+
+   <br>
+   -  <details><summary>JSHint Results</summary>
+      <img src="./assets/images/readme/test/quiz_music_game_Jshint_game_validator__results.png">
+      </details>
+    
     
   - __Accessibility__
 
