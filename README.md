@@ -38,7 +38,7 @@ The Music Quiz website has been developed to provide users the chance to play th
     - [Flowchart](#flowchart)
     - [Wireframes](#wireframes)
   - [Technologies Used](#technologies-used)
-    - [Languages](#languages)
+    - [Languages Used](#languages-used)
     - [Framework and Tools](#framework-and-tools)
   - [Features](#features)
     - [Existing Features](#existing-features)
@@ -334,8 +334,11 @@ Following are the wireframes of The Music Quiz App:
 
 ## Technologies Used
 
-### Languages
-- HTML, CSS and JavaScript were used to creat this website.
+### Languages Used
+
+- [HTML 5](https://en.wikipedia.org/wiki/HTML/)
+- [CSS 3](https://en.wikipedia.org/wiki/CSS)
+- [JavaScript](https://www.javascript.com/)
 
 ### Framework and Tools
 * [Git](https://git-scm.com/) Used for version control to push the code to GitHub.
