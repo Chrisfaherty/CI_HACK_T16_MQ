@@ -22,6 +22,7 @@ The Music Quiz website has been developed to provide users the chance to play th
     - [User Goals](#user-goals)
     - [Site Owner Goals](#site-owner-goals)
   - [User Experience](#user-experience)
+      - [Typography](#typography)
     - [Target Audience](#target-audience)
     - [User Requirements and Expectations](#user-requirements-and-expectations)
     - [User Stories](#user-stories)
@@ -88,6 +89,10 @@ The Music Quiz website has been developed to provide users the chance to play th
 
 -----
 ## User Experience
+
+#### Typography
+
+- The Robot font is used as the main font for the whole project. Is adding to the project by importing from Google fonts.
 
 ### Target Audience
 
