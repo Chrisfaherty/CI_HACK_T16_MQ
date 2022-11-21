@@ -558,7 +558,7 @@ Audio and visual response of user-selected answers, update current score and pro
 ----
 
 ### Unfixed Bugs
-While we were developing the game we notice the error on the console one is related to the Howler CDN library we are using to add sounds effect to the game other is related to a JS add event listener function. After I considerately mont of time spent trying to fix this bug and searching online for help unfortunately we didn't find any solution.
+While we were developing the game we notice two error on the console one is related to the Howler CDN library we are using to add sounds effect to the game other is related to a JS add event listener function. After I considerately mont of time spent trying to fix this bug and searching online for help unfortunately we didn't find any solution.
 
 #### Home page 
 
