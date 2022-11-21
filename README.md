@@ -294,6 +294,42 @@ Following are the wireframes of The Music Quiz App:
 ----
 </details>
 
+<details><summary>Gold Trophy</summary>
+<img src="./assets/images/readme/wireframe/gold-html-desktop-wireframe.png">
+
+----
+<img src="./assets/images/readme/wireframe/gold-html-tablet-wireframe.png">
+
+----
+<img src="./assets/images/readme/wireframe/gold-html-mobile-wireframe.png">
+
+----
+</details>
+
+<details><summary>Silver Trophy</summary>
+<img src="./assets/images/readme/wireframe/silver-html-desktop-wireframe.png">
+
+----
+<img src="./assets/images/readme/wireframe/silver-html-tablet-wireframe.png">
+
+----
+<img src="./assets/images/readme/wireframe/silver-html-mobile-wireframe.png">
+
+----
+</details>
+
+<details><summary>Bronze Trophy</summary>
+<img src="./assets/images/readme/wireframe/bronze-html-desktop-wireframe.png">
+
+----
+<img src="./assets/images/readme/wireframe/bronze-html-tablet-wireframe.png">
+
+----
+<img src="./assets/images/readme/wireframe/bronze-html-mobile-wireframe.png">
+
+----
+</details>
+
 ## Technologies Used
 
 ### Languages
