@@ -422,7 +422,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
    - No error was returned when passing through the official for index.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fchrisfaherty.github.io%2FCI_HACK_T16_MQ%2Findex.html)
 
    <br>
-    - <details><summary>Home Page</summary>
+      <details><summary>Home Page</summary>
       <img src="./assets/images/readme/test/quiz_music_game_html_validator_index_results.png">
       </details>
 
@@ -431,7 +431,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
    - No errors were found when passing through the official [W3C validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchrisfaherty.github.io%2FCI_HACK_T16_MQ%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
    <br>
-   -  <details><summary>Main CSS File</summary>
+      <details><summary>Main CSS File</summary>
       <img src="./assets/images/readme/test/css-validator.png">
       </details>
       <details><summary>Responsive CSS File</summary>
@@ -448,7 +448,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
    - The most complex function has a cyclomatic complexity value of 2 while the median is 1.
 
    <br>
-   -  <details><summary>JSHint Results</summary>
+      <details><summary>JSHint Results</summary>
       <img src="./assets/images/readme/test/quiz_music_game_Jshint_game_validator__results.png">
       </details>
     
