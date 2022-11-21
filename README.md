@@ -115,15 +115,10 @@ The Music Quiz website has been developed to provide users the chance to play th
     - the user learn something in regards to music.
     - the user to get feedback based on their input.
 
-
-----
-----
 ### User Manual
 
 <details><summary>Instructions</summary>
 
-
-----
 #### Overview
 
 The Music Quiz app is for users who wish to enhance the knowledge about different type of music (Jazz, Rock, Pop, Classic, EDM) by playing interactive quizzes. Each page provides the logo at the top left corner and nav button to navigate to home page.
@@ -168,7 +163,6 @@ The Trophy page provides either one of the following greeting messages:
 - User's detailed result with a Bronze guitar icon, if the user gave eight answers right.
 
 ---
-
 
 #### High Score page
 
@@ -357,6 +351,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
 
 [Back to Table Of Contents](#table-of-contents)
 
+----
 
 ## Testing
 
@@ -432,6 +427,8 @@ On the high score page, the scoreboard displays the user's score up to the top s
 <img src="./assets/images/readme/music_quiz_home_toggle.png">">
 </details>
 
+----
+
 ### Testing Site Owner
 
  1. As the site owner, I want to provide a music-relevant and well-instructed quiz.
@@ -468,7 +465,11 @@ Quizzes based on different types (Jazz, Rock, Pop, Classic, EDM) of music|Naviga
 |-------------|------------|----------------------|-------------------|  
 Audio and visual response of user-selected answers, update current score and progress bar|User input|Response of user's particular input|Works as expected|
 
+----
+
 [Back to Table Of Contents](#table-of-contents)
+
+----
 
 ### Fixed Bugs
 * Wh
