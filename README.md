@@ -570,9 +570,8 @@ Audio and visual response of user-selected answers, update current score and pro
 
 ### Information Sources / Resources
 
-- [W3Schools - Python](https://www.w3schools.com/python/)
+- [W3Schools](https://www.w3schools.com)
 - [Stack Overflow](https://stackoverflow.com/)
-- [Scrimba - Pyhton](https://scrimba.com/learn/python)
 - [Code Institute - Slack Community](https://slack.com/)
 
 
