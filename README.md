@@ -425,6 +425,14 @@ On the high score page, the scoreboard displays the user's score up to the top s
  
    - No errors were found when passing through the official [W3C validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchrisfaherty.github.io%2FCI_HACK_T16_MQ%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+   <br>
+   -  <details><summary>Main CSS File</summary>
+      <img src="./assets/images/readme/test/css-validator.png">
+      </details>
+      <details><summary>Responsive CSS File</summary>
+      <img src="./assets/images/readme/test/css-validator.png">
+      </details>
+
  - __JavaScript__
 
    - No errors were found when passing through the official Jshint validator [JSHint Validator](https://jshint.com/)
