@@ -421,12 +421,15 @@ On the high score page, the scoreboard displays the user's score up to the top s
    - The most complex function has a cyclomatic complexity value of 2 while the median is 1.
     
   - __Accessibility__
+
+      <details><summary>Lighthouse test result for mobile</summary>
+      <img src="./assets/images/readme/music_quiz_game_page.jpg">
+      </details>
+      <details><summary>Lighthouse test result for desktop</summary>
+      <img src="./assets/images/readme/test/quiz_music_game_lighthouse_desktop.results.png">
+      </details>
  
-     - Lighthouse test result for mobile [See here]()
-
-     - Lighthouse test result for desktop [See here](./assets/images/readme/test/quiz_music_game_lighthouse_desktop.results.png)
-
-
+   
 ### Testing User Stories
 
 1. As a user, I want to have an interactive, meaningful and contextual quiz.
