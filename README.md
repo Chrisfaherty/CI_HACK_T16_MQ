@@ -59,6 +59,7 @@ The Music Quiz website has been developed to provide users the chance to play th
     - [Quiz Questions](#quiz-questions)
     - [Sounds Effect and Ambience Music](#sounds-effect-and-ambience-music)
     - [Images and Graphics](#images-and-graphics)
+    - [Information Sources / Resources](#information-sources--resources)
   - [Acknowledgements](#acknowledgements)
 
 
@@ -400,7 +401,7 @@ On the high score page, the scoreboard displays the user's score up to the top s
 
  - __CSS__
  
-   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchrisfaherty.github.io%2FCI_HACK_T16_MQ%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+   - No errors were found when passing through the official [W3C validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchrisfaherty.github.io%2FCI_HACK_T16_MQ%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
  - __JavaScript__
 
@@ -558,6 +559,13 @@ Audio and visual response of user-selected answers, update current score and pro
     * Classical [Larisa Birta on Unsplash](https://unsplash.com/photos/slbOcNlWNHA)
     * EDM [Marcela Laskoski on Unsplash](https://unsplash.com/photos/YrtFlrLo2DQ)
   * Logo graphic [pngegg.com](https://www.pngegg.com/en/png-pdkah) 
+
+### Information Sources / Resources
+
+- [W3Schools - Python](https://www.w3schools.com/python/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Scrimba - Pyhton](https://scrimba.com/learn/python)
+- [Code Institute - Slack Community](https://slack.com/)
 
 
 ## Acknowledgements
