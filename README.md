@@ -44,6 +44,7 @@ The Music Quiz website has been developed to provide users the chance to play th
   - [Features](#features)
     - [Existing Features](#existing-features)
       - [Home page](#home-page-1)
+      - [Home page -sidebar](#home-page--sidebar)
       - [Quiz page](#quiz-page-1)
       - [Quiz End page](#quiz-end-page-1)
       - [Trophy page](#trophy-page-1)
@@ -62,8 +63,6 @@ The Music Quiz website has been developed to provide users the chance to play th
     - [Images and Graphics](#images-and-graphics)
     - [Information Sources / Resources](#information-sources--resources)
   - [Acknowledgements](#acknowledgements)
-
-
 
 -----
 ## Project Goals
@@ -358,9 +357,17 @@ Following are the wireframes of The Music Quiz App:
 
 #### Home page
 
-On the home page, the logo in the upper left corner shows the name of the website. By clicking on the 'Let's Know' button, the user can start the quiz to test his knowledge of music. Alternatively, the toggle button in the top right corner also gives the user the option to select a particular type of music quiz.
+On the website homepage, users have access to the sidebar by clicking on the bars icon on the top right of the screen. Once opened, users can choose a quiz to play or check the scores page.
 
 ![Home page image](./assets/images/readme/music_quiz_homepage_page.jpg)
+
+---
+
+#### Home page -sidebar
+
+On the home page, the logo in the upper left corner shows the name of the website. By clicking on the 'Let's Know' button, the user can start the quiz to test his knowledge of music. Alternatively, the toggle button in the top right corner also gives the user the option to select a particular type of music quiz.
+
+![Home page image](./assets/images/readme/music_quiz_homepage_nav_page.jpg)
 
 ---
 
