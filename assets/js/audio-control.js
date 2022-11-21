@@ -6,7 +6,7 @@ stopMusic = document.getElementById("stop");
 audioControl.addEventListener('click', () => {
    var myAudio = document.getElementById('audio');
    myAudio.muted = !myAudio.muted;
-   playMusic.classList.toggle('active')
-   stopMusic.classList.toggle('active')
+   playMusic.classList.toggle('active');
+   stopMusic.classList.toggle('active');
 
-})
+});
